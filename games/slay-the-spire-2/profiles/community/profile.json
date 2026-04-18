@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1",
+  "game": { "id": "slay-the-spire-2", "name": "Slay the Spire 2" },
+  "id": "community",
+  "name": "STS2 Community",
+  "description": "Community-maintained annotations for Slay the Spire 2.",
+  "version": "0.1.0",
+  "triggers": [
+    {
+      "id": "map-icon",
+      "payloads": [
+        {
+          "title": "Map",
+          "text": "Click to view the act map.",
+          "image": null,
+          "popupOffset": { "x": 14, "y": 22 }
+        }
+      ],
+      "references": [
+        { "file": "map-icon.png", "w": 77, "h": 73, "srcW": 1920, "srcH": 1080 }
+      ]
+    },
+    {
+      "id": "coin-gold",
+      "payloads": [
+        {
+          "title": "Gold",
+          "text": "Your current gold count.",
+          "image": null,
+          "popupOffset": { "x": 14, "y": 22 }
+        }
+      ],
+      "references": [
+        { "file": "coin-gold.png", "w": 52, "h": 57, "srcW": 1920, "srcH": 1080 }
+      ]
+    },
+    {
+      "id": "ice-cream-relic",
+      "payloads": [
+        {
+          "title": "Ice Cream",
+          "text": "Relic — Ice Cream. Gain 3 Energy at the start of each turn.",
+          "image": null,
+          "popupOffset": { "x": 14, "y": 22 }
+        }
+      ],
+      "references": [
+        { "file": "ice-cream-relic.png", "w": 64, "h": 65, "srcW": 1920, "srcH": 1080 }
+      ]
+    }
+  ]
+}
