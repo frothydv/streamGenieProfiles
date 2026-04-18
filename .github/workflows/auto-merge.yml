@@ -1,0 +1,25 @@
+name: Auto-merge trusted submissions
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  auto-merge:
+    # Only run for PRs opened by the trusted account (the one whose
+    # GITHUB_TOKEN the Cloudflare Worker uses). Update the login below
+    # if you switch to a dedicated bot account.
+    if: github.event.pull_request.user.login == 'frothydv'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Merge PR
+        run: |
+          gh pr merge "${{ github.event.pull_request.number }}" \
+            --merge \
+            --repo "${{ github.repository }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
