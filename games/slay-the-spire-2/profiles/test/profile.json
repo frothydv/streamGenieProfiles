@@ -69,6 +69,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "unicode-test",
+      "payloads": [
+        {
+          "title": "Unicode ☃ — test",
+          "text": "em-dash — bullet • copyright ©",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "unicode-test-1776618727614.png",
+          "w": 1,
+          "h": 1,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
