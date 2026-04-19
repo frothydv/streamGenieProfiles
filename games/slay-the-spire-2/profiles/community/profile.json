@@ -83,7 +83,7 @@
       "payloads": [
         {
           "title": "Floor",
-          "text": "The current floor the player has reached.",
+          "text": "The current floor the player has reached. (test update — safe to ignore)",
           "image": null,
           "popupOffset": {
             "x": -30,
