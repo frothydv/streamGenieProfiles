@@ -60,7 +60,7 @@
       "payloads": [
         {
           "title": "Ice Cream",
-          "text": "Relic ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ Ice Cream. Gain 3 Energy at the start of each turn.",
+          "text": "Relic ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Ice Cream. Gain 3 Energy at the start of each turn.",
           "image": null,
           "popupOffset": {
             "x": 14,
@@ -129,7 +129,7 @@
       "payloads": [
         {
           "title": "Test Auto",
-          "text": "Automated test trigger â safe to delete",
+          "text": "Automated test trigger Ã¢ÂÂ safe to delete",
           "image": null,
           "popupOffset": {
             "x": 14,
@@ -164,6 +164,29 @@
         {
           "file": "floor-1776612832863.png",
           "w": 55,
+          "h": 57,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
+    },
+    {
+      "id": "bronze-scales",
+      "payloads": [
+        {
+          "title": "Bronze Scales",
+          "text": "Start each combat with 3 Thorns.",
+          "image": null,
+          "popupOffset": {
+            "x": -27,
+            "y": 27
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "bronze-scales-1776613428278.png",
+          "w": 58,
           "h": 57,
           "srcW": 1920,
           "srcH": 1080
