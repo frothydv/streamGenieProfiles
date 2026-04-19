@@ -60,7 +60,7 @@
       "payloads": [
         {
           "title": "Ice Cream",
-          "text": "Relic ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Ice Cream. Gain 3 Energy at the start of each turn.",
+          "text": "Relic ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Ice Cream. Gain 3 Energy at the start of each turn.",
           "image": null,
           "popupOffset": {
             "x": 14,
@@ -129,7 +129,7 @@
       "payloads": [
         {
           "title": "Test Auto",
-          "text": "Automated test trigger Ã¢ÂÂ safe to delete",
+          "text": "Automated test trigger ÃÂ¢ÃÂÃÂ safe to delete",
           "image": null,
           "popupOffset": {
             "x": 14,
@@ -190,6 +190,29 @@
           "h": 57,
           "srcW": 1920,
           "srcH": 1080
+        }
+      ]
+    },
+    {
+      "id": "ascension-10-fight-two-bosses-at-the-end-of-act-3",
+      "payloads": [
+        {
+          "title": "Ascension 10 (Fight two Bosses at the end of Act 3)",
+          "text": "- ~60% more Elites will spawn.\n\n- Ancients only heal 80% of your missing HP. \n\n- Enemies and Treasure Chests drop 25% less Gold.\n\n- Start each run with 1 less potion slot.\n\n- Start each run with an Ascender's Bane curse card\n\n- Card removes at The Merchant now start at 100 Gold instead of 75 Gold. Every subsequent card remove now costs 50 Gold more instead of only 25 Gold.\n\n- Rare and Upgraded cards appear half as often. This includes combat rewards from all Enemies as well as the stock of the Merchant.\n\n- All Enemies have more HP.\n\n- All Enemies deal more damage.",
+          "image": null,
+          "popupOffset": {
+            "x": 11,
+            "y": -56
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "ascension-10-fight-two-bosses-at-the-end-of-act-3-1776613660709.png",
+          "w": 27,
+          "h": 32,
+          "srcW": 1280,
+          "srcH": 720
         }
       ]
     }
