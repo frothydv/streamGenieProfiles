@@ -60,7 +60,7 @@
       "payloads": [
         {
           "title": "Ice Cream",
-          "text": "Relic â Ice Cream. Gain 3 Energy at the start of each turn.",
+          "text": "Relic Ã¢ÂÂ Ice Cream. Gain 3 Energy at the start of each turn.",
           "image": null,
           "popupOffset": {
             "x": 14,
@@ -96,6 +96,29 @@
           "file": "defect-character-class-1776604001572.png",
           "w": 51,
           "h": 49,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
+    },
+    {
+      "id": "test-trigger",
+      "payloads": [
+        {
+          "title": "Test Trigger",
+          "text": "Testing submission",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "test-trigger-1776604171090.png",
+          "w": 1,
+          "h": 1,
           "srcW": 1920,
           "srcH": 1080
         }
