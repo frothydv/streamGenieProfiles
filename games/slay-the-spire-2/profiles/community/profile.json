@@ -146,6 +146,29 @@
           "srcH": 720
         }
       ]
+    },
+    {
+      "id": "current-floor",
+      "payloads": [
+        {
+          "title": "Current Floor",
+          "text": "The # of floors the player has advanced.\nEach combat, event, shop, etc counts as one.",
+          "image": null,
+          "popupOffset": {
+            "x": -30,
+            "y": 25
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "current-floor-1776619089938.png",
+          "w": 55,
+          "h": 57,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
