@@ -1,6 +1,9 @@
 {
   "schemaVersion": "1",
-  "game": { "id": "slay-the-spire-2", "name": "Slay the Spire 2" },
+  "game": {
+    "id": "slay-the-spire-2",
+    "name": "Slay the Spire 2"
+  },
   "id": "community",
   "name": "STS2 Community",
   "description": "Community-maintained annotations for Slay the Spire 2.",
@@ -13,11 +16,20 @@
           "title": "Map",
           "text": "Click to view the act map.",
           "image": null,
-          "popupOffset": { "x": 14, "y": 22 }
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
         }
       ],
       "references": [
-        { "file": "map-icon.png", "w": 77, "h": 73, "srcW": 1920, "srcH": 1080 }
+        {
+          "file": "map-icon.png",
+          "w": 77,
+          "h": 73,
+          "srcW": 1920,
+          "srcH": 1080
+        }
       ]
     },
     {
@@ -27,11 +39,20 @@
           "title": "Gold",
           "text": "Your current gold count.",
           "image": null,
-          "popupOffset": { "x": 14, "y": 22 }
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
         }
       ],
       "references": [
-        { "file": "coin-gold.png", "w": 52, "h": 57, "srcW": 1920, "srcH": 1080 }
+        {
+          "file": "coin-gold.png",
+          "w": 52,
+          "h": 57,
+          "srcW": 1920,
+          "srcH": 1080
+        }
       ]
     },
     {
@@ -39,13 +60,45 @@
       "payloads": [
         {
           "title": "Ice Cream",
-          "text": "Relic — Ice Cream. Gain 3 Energy at the start of each turn.",
+          "text": "Relic â Ice Cream. Gain 3 Energy at the start of each turn.",
           "image": null,
-          "popupOffset": { "x": 14, "y": 22 }
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
         }
       ],
       "references": [
-        { "file": "ice-cream-relic.png", "w": 64, "h": 65, "srcW": 1920, "srcH": 1080 }
+        {
+          "file": "ice-cream-relic.png",
+          "w": 64,
+          "h": 65,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
+    },
+    {
+      "id": "defect-character-class",
+      "payloads": [
+        {
+          "title": "Defect Character Class",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "defect-character-class-1776604001572.png",
+          "w": 51,
+          "h": 49,
+          "srcW": 1920,
+          "srcH": 1080
+        }
       ]
     }
   ]
