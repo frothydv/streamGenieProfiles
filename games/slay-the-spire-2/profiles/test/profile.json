@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "1",
+  "game": { "id": "slay-the-spire-2", "name": "Slay the Spire 2" },
+  "id": "test",
+  "name": "Test Profile (automated tests only)",
+  "description": "Fixture profile for automated integration tests. Not for real annotations.",
+  "version": "0.0.1",
+  "triggers": [
+    {
+      "id": "test-fixture",
+      "payloads": [
+        {
+          "title": "Test Fixture",
+          "text": "This trigger exists for automated tests. Do not edit manually.",
+          "image": null,
+          "popupOffset": { "x": 14, "y": 22 }
+        }
+      ],
+      "references": []
+    }
+  ]
+}
