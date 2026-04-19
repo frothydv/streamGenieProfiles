@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "1",
+  "games": [
+    {
+      "id": "slay-the-spire-2",
+      "name": "Slay the Spire 2",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "STS2 Community",
+          "description": "Community-maintained annotations for Slay the Spire 2.",
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/community/profile.json"
+        }
+      ]
+    }
+  ]
+}

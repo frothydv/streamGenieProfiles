@@ -1,0 +1,13 @@
+# Stream Genie Profile Ownership
+#
+# The person listed for a profile directory is the "profile owner". They can:
+#   - Approve PRs that modify their profile (auto-merge fires on approval)
+#   - Grant others contributor access by adding them here
+#
+# Default: maintainer owns everything not explicitly listed below.
+* @frothydv
+
+# Per-profile ownership.
+# Add a line here when a new profile is created.
+# Format: /games/{game-id}/profiles/{profile-id}/ @github-username
+/games/slay-the-spire-2/profiles/community/ @frothydv
