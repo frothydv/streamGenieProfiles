@@ -14,7 +14,7 @@
       "payloads": [
         {
           "title": "Test Fixture",
-          "text": "This trigger exists for automated tests. Do not edit manually.",
+          "text": "Updated by automated test.",
           "image": null,
           "popupOffset": {
             "x": 14,
