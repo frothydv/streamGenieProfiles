@@ -11,10 +11,6 @@ on:
 jobs:
   auto-merge-bot-pr:
     name: Auto-merge bot PR
-    # The bot account (frothydv) opens PRs on behalf of users. It owns all
-    # profiles initially, so its PRs are trusted and merge immediately.
-    # When a profile changes hands, remove that owner's profiles from this
-    # condition and let the review-based path handle them instead.
     if: |
       github.event_name == 'pull_request' &&
       github.event.pull_request.user.login == 'frothydv'
@@ -23,20 +19,30 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - name: Merge PR
+      - name: Merge PR (squash)
+        id: merge
+        # Squash merge reduces conflicts when multiple PRs touch the same file.
+        # continue-on-error so the next step always runs.
+        continue-on-error: true
         run: |
           gh pr merge "${{ github.event.pull_request.number }}" \
-            --merge \
+            --squash \
+            --delete-branch \
+            --repo "${{ github.repository }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Comment on conflict
+        if: steps.merge.outcome == 'failure'
+        run: |
+          gh pr comment "${{ github.event.pull_request.number }}" \
+            --body "⚠️ Auto-merge failed (likely a merge conflict with a recently merged PR). A profile owner can resolve the conflict and merge manually, or close this PR if it is no longer needed." \
             --repo "${{ github.repository }}"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   auto-merge-on-approval:
     name: Auto-merge on CODEOWNER approval
-    # When any collaborator approves a PR, merge it. Real CODEOWNER enforcement
-    # (i.e. only the *right* owner can approve) requires branch protection rules
-    # set in GitHub repository settings — configure "Require review from Code
-    # Owners" there to prevent unauthorised approvals from triggering this.
     if: |
       github.event_name == 'pull_request_review' &&
       github.event.review.state == 'approved'
@@ -45,10 +51,22 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - name: Merge PR
+      - name: Merge PR (squash)
+        id: merge
+        continue-on-error: true
         run: |
           gh pr merge "${{ github.event.pull_request.number }}" \
-            --merge \
+            --squash \
+            --delete-branch \
+            --repo "${{ github.repository }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Comment on conflict
+        if: steps.merge.outcome == 'failure'
+        run: |
+          gh pr comment "${{ github.event.pull_request.number }}" \
+            --body "⚠️ Auto-merge failed (likely a merge conflict). Please resolve and merge manually." \
             --repo "${{ github.repository }}"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
