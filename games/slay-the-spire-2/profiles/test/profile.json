@@ -46,6 +46,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "test-auto",
+      "payloads": [
+        {
+          "title": "Test Auto",
+          "text": "Automated test trigger — safe to delete",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "test-auto-1776618390668.png",
+          "w": 1,
+          "h": 1,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
