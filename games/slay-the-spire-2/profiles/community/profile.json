@@ -14,7 +14,7 @@
       "payloads": [
         {
           "title": "Map",
-          "text": "Click to view the act map. (test update — safe to ignore)",
+          "text": "Click to view the act map.",
           "image": null,
           "popupOffset": {
             "x": 14,
@@ -60,7 +60,7 @@
       "payloads": [
         {
           "title": "Ice Cream",
-          "text": "Relic ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Ice Cream. Gain 3 Energy at the start of each turn.",
+          "text": "Relic — Ice Cream. Gain 3 Energy at the start of each turn.",
           "image": null,
           "popupOffset": {
             "x": 14,
@@ -79,84 +79,15 @@
       ]
     },
     {
-      "id": "defect-character-class",
-      "payloads": [
-        {
-          "title": "Defect Character Class",
-          "text": "",
-          "image": null,
-          "popupOffset": {
-            "x": 14,
-            "y": 22
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "defect-character-class-1776604001572.png",
-          "w": 51,
-          "h": 49,
-          "srcW": 1920,
-          "srcH": 1080
-        }
-      ]
-    },
-    {
-      "id": "test-trigger",
-      "payloads": [
-        {
-          "title": "Test Trigger",
-          "text": "Testing submission",
-          "image": null,
-          "popupOffset": {
-            "x": 14,
-            "y": 22
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "test-trigger-1776604171090.png",
-          "w": 1,
-          "h": 1,
-          "srcW": 1920,
-          "srcH": 1080
-        }
-      ]
-    },
-    {
-      "id": "test-auto",
-      "payloads": [
-        {
-          "title": "Test Auto",
-          "text": "Automated test trigger ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ safe to delete",
-          "image": null,
-          "popupOffset": {
-            "x": 14,
-            "y": 22
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "test-auto-1776605584909.png",
-          "w": 1,
-          "h": 1,
-          "srcW": 1920,
-          "srcH": 1080
-        }
-      ]
-    },
-    {
       "id": "floor",
       "payloads": [
         {
           "title": "Floor",
-          "text": "The # of floors the player has advanced",
+          "text": "The current floor the player has reached.",
           "image": null,
           "popupOffset": {
-            "x": 14,
-            "y": 22
+            "x": -30,
+            "y": 25
           }
         }
       ],
@@ -197,8 +128,8 @@
       "id": "ascension-10-fight-two-bosses-at-the-end-of-act-3",
       "payloads": [
         {
-          "title": "Ascension 10 (Fight two Bosses at the end of Act 3)",
-          "text": "- ~60% more Elites will spawn.\n\n- Ancients only heal 80% of your missing HP. \n\n- Enemies and Treasure Chests drop 25% less Gold.\n\n- Start each run with 1 less potion slot.\n\n- Start each run with an Ascender's Bane curse card\n\n- Card removes at The Merchant now start at 100 Gold instead of 75 Gold. Every subsequent card remove now costs 50 Gold more instead of only 25 Gold.\n\n- Rare and Upgraded cards appear half as often. This includes combat rewards from all Enemies as well as the stock of the Merchant.\n\n- All Enemies have more HP.\n\n- All Enemies deal more damage.",
+          "title": "Ascension 10",
+          "text": "- ~60% more Elites will spawn.\n- Ancients only heal 80% of your missing HP.\n- Enemies and Treasure Chests drop 25% less Gold.\n- Start each run with 1 less potion slot.\n- Start each run with an Ascender's Bane curse card.\n- Card removes at The Merchant start at 100 Gold; each subsequent remove costs 50 Gold more.\n- Rare and Upgraded cards appear half as often.\n- All Enemies have more HP.\n- All Enemies deal more damage.",
           "image": null,
           "popupOffset": {
             "x": 11,
@@ -213,98 +144,6 @@
           "h": 32,
           "srcW": 1280,
           "srcH": 720
-        }
-      ]
-    },
-    {
-      "id": "test-auto",
-      "payloads": [
-        {
-          "title": "Test Auto",
-          "text": "Automated test trigger ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ safe to delete",
-          "image": null,
-          "popupOffset": {
-            "x": 14,
-            "y": 22
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "test-auto-1776615566262.png",
-          "w": 1,
-          "h": 1,
-          "srcW": 1920,
-          "srcH": 1080
-        }
-      ]
-    },
-    {
-      "id": "test-auto",
-      "payloads": [
-        {
-          "title": "Test Auto",
-          "text": "Automated test trigger ÃÂ¢ÃÂÃÂ safe to delete",
-          "image": null,
-          "popupOffset": {
-            "x": 14,
-            "y": 22
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "test-auto-1776615892436.png",
-          "w": 1,
-          "h": 1,
-          "srcW": 1920,
-          "srcH": 1080
-        }
-      ]
-    },
-    {
-      "id": "current-floor",
-      "payloads": [
-        {
-          "title": "Current Floor",
-          "text": "The # of floors the player has advanced",
-          "image": null,
-          "popupOffset": {
-            "x": -30,
-            "y": 25
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "current-floor-1776616830341.png",
-          "w": 55,
-          "h": 57,
-          "srcW": 1920,
-          "srcH": 1080
-        }
-      ]
-    },
-    {
-      "id": "test-auto",
-      "payloads": [
-        {
-          "title": "Test Auto",
-          "text": "Automated test trigger — safe to delete",
-          "image": null,
-          "popupOffset": {
-            "x": 14,
-            "y": 22
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "test-auto-1776616926057.png",
-          "w": 1,
-          "h": 1,
-          "srcW": 1920,
-          "srcH": 1080
         }
       ]
     }
