@@ -1,6 +1,9 @@
 {
   "schemaVersion": "1",
-  "game": { "id": "slay-the-spire-2", "name": "Slay the Spire 2" },
+  "game": {
+    "id": "slay-the-spire-2",
+    "name": "Slay the Spire 2"
+  },
   "id": "test",
   "name": "Test Profile (automated tests only)",
   "description": "Fixture profile for automated integration tests. Not for real annotations.",
@@ -13,10 +16,36 @@
           "title": "Test Fixture",
           "text": "This trigger exists for automated tests. Do not edit manually.",
           "image": null,
-          "popupOffset": { "x": 14, "y": 22 }
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
         }
       ],
       "references": []
+    },
+    {
+      "id": "test-auto",
+      "payloads": [
+        {
+          "title": "Test Auto",
+          "text": "Automated test trigger — safe to delete",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "test-auto-1776618311104.png",
+          "w": 1,
+          "h": 1,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
