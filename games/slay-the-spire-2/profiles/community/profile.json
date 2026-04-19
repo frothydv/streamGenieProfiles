@@ -60,7 +60,7 @@
       "payloads": [
         {
           "title": "Ice Cream",
-          "text": "Relic ÃÂ¢ÃÂÃÂ Ice Cream. Gain 3 Energy at the start of each turn.",
+          "text": "Relic ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ Ice Cream. Gain 3 Energy at the start of each turn.",
           "image": null,
           "popupOffset": {
             "x": 14,
@@ -129,7 +129,7 @@
       "payloads": [
         {
           "title": "Test Auto",
-          "text": "Automated test trigger — safe to delete",
+          "text": "Automated test trigger â safe to delete",
           "image": null,
           "popupOffset": {
             "x": 14,
@@ -142,6 +142,29 @@
           "file": "test-auto-1776605584909.png",
           "w": 1,
           "h": 1,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
+    },
+    {
+      "id": "floor",
+      "payloads": [
+        {
+          "title": "Floor",
+          "text": "The # of floors the player has advanced",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "floor-1776612832863.png",
+          "w": 55,
+          "h": 57,
           "srcW": 1920,
           "srcH": 1080
         }
