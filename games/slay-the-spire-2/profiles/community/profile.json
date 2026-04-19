@@ -14,7 +14,7 @@
       "payloads": [
         {
           "title": "Map",
-          "text": "Click to view the act map.",
+          "text": "Click to view the act map. (test update — safe to ignore)",
           "image": null,
           "popupOffset": {
             "x": 14,
