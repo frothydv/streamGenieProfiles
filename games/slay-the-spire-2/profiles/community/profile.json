@@ -284,6 +284,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "enemy-block-intent",
+      "payloads": [
+        {
+          "title": "Enemy Block Intent",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "enemy-block-intent-1776694577452.png",
+          "w": 45,
+          "h": 42,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
