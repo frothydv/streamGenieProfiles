@@ -399,6 +399,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "eternal-feather",
+      "payloads": [
+        {
+          "title": "Eternal Feather",
+          "text": "For every 5 cards in your deck, heal 3 HP whenever you enter a Rest Site.",
+          "image": null,
+          "popupOffset": {
+            "x": -28,
+            "y": 26
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "eternal-feather-1776707313587.png",
+          "w": 60,
+          "h": 67,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
