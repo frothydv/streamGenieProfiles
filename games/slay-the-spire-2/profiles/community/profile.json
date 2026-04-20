@@ -238,6 +238,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "regular-combat",
+      "payloads": [
+        {
+          "title": "Regular Combat",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -28,
+            "y": 23
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "regular-combat-1776689914595.png",
+          "w": 48,
+          "h": 42,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
