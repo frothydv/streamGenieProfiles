@@ -45,6 +45,29 @@
           "srcH": 720
         }
       ]
+    },
+    {
+      "id": "run-timer",
+      "payloads": [
+        {
+          "title": "Run Timer",
+          "text": "Amount of time since the run began",
+          "image": null,
+          "popupOffset": {
+            "x": -28,
+            "y": 25
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "run-timer-1776685705005.png",
+          "w": 45,
+          "h": 45,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
