@@ -422,6 +422,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "whetstone",
+      "payloads": [
+        {
+          "title": "Whetstone",
+          "text": "[Add text here]",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "whetstone-1776707461606.png",
+          "w": 66,
+          "h": 62,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
