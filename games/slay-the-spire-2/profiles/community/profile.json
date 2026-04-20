@@ -514,6 +514,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "player-mana",
+      "payloads": [
+        {
+          "title": "Player Mana",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 25,
+            "y": -21
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "player-mana-1776717726168.png",
+          "w": 133,
+          "h": 136,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
