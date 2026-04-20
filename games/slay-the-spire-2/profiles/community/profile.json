@@ -330,6 +330,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "weak",
+      "payloads": [
+        {
+          "title": "Weak",
+          "text": "[Add text please!]",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "weak-1776701414454.png",
+          "w": 44,
+          "h": 42,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
