@@ -1,3 +1,27 @@
 {
-  "triggers": []
+  "triggers": [
+    {
+      "id": "drone",
+      "payloads": [
+        {
+          "title": "Drone",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "drone-1776650579502.png",
+          "w": 39,
+          "h": 44,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
+    }
+  ]
 }
