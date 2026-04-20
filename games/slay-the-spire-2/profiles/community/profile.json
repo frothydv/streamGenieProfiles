@@ -491,6 +491,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "empty-potions-slot",
+      "payloads": [
+        {
+          "title": "Empty Potions Slot",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "empty-potions-slot-1776717548606.png",
+          "w": 61,
+          "h": 49,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
