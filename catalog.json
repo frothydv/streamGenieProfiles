@@ -10,6 +10,11 @@
           "name": "STS2 Community",
           "description": "Community-maintained annotations for Slay the Spire 2.",
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/community/profile.json"
+        },
+        {
+          "id": "dc-sts2",
+          "name": "DC-StS2",
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/dc-sts2/profile.json"
         }
       ]
     },
