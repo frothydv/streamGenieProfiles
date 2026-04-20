@@ -24,6 +24,18 @@
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/pillars-of-eternity/profiles/community/profile.json"
         }
       ]
+    },
+    {
+      "id": "scritchy-scratchy",
+      "name": "Scritchy Scratchy",
+      "twitchSlug": "scritchy-scratchy",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "Scritchy Scratchy Community",
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/scritchy-scratchy/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
