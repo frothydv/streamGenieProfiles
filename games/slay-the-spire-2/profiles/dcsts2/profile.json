@@ -22,6 +22,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "enemy-reviving",
+      "payloads": [
+        {
+          "title": "Enemy Reviving",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "enemy-reviving-1776649786188.png",
+          "w": 35,
+          "h": 37,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
