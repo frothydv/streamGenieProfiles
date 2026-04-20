@@ -307,6 +307,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "gambling-chip",
+      "payloads": [
+        {
+          "title": "Gambling Chip",
+          "text": "At the start of each combat, discard any number of cards then draw that many.",
+          "image": null,
+          "popupOffset": {
+            "x": -28,
+            "y": 30
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "gambling-chip-1776697190896.png",
+          "w": 66,
+          "h": 62,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
