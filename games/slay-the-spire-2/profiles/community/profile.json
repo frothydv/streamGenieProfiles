@@ -261,6 +261,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "cracked-core",
+      "payloads": [
+        {
+          "title": "Cracked Core",
+          "text": "At the start of each combat, Channel 1 Lightning Orb.",
+          "image": null,
+          "popupOffset": {
+            "x": -29,
+            "y": 28
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "cracked-core-1776691244690.png",
+          "w": 63,
+          "h": 64,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
