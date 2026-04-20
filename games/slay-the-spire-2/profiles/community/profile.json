@@ -537,6 +537,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "smooth-stone",
+      "payloads": [
+        {
+          "title": "Smooth Stone",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -29,
+            "y": 27
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "smooth-stone-1776718293790.png",
+          "w": 79,
+          "h": 67,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
