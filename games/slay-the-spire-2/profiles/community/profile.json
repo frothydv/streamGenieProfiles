@@ -192,6 +192,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "vunerable",
+      "payloads": [
+        {
+          "title": "Vunerable",
+          "text": "[Add text please!]",
+          "image": null,
+          "popupOffset": {
+            "x": -25,
+            "y": 17
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "vunerable-1776687191829.png",
+          "w": 35,
+          "h": 36,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
