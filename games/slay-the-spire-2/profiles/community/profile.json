@@ -560,6 +560,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "black-star",
+      "payloads": [
+        {
+          "title": "Black Star",
+          "text": "Elites drop an additional Relic when defeated.",
+          "image": null,
+          "popupOffset": {
+            "x": -29,
+            "y": 26
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "black-star-1776718479703.png",
+          "w": 67,
+          "h": 63,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
