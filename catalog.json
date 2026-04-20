@@ -4,6 +4,7 @@
     {
       "id": "slay-the-spire-2",
       "name": "Slay the Spire 2",
+      "twitchSlug": "slay-the-spire-ii",
       "profiles": [
         {
           "id": "community",
@@ -26,8 +27,19 @@
           "name": "STS2-Test",
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/sts2-test/profile.json"
         }
-      ],
-      "twitchSlug": "slay-the-spire-2"
+      ]
+    },
+    {
+      "id": "starcraft-ii",
+      "name": "StarCraft II",
+      "twitchSlug": "starcraft-ii",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "StarCraft II Community",
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/starcraft-ii/profiles/community/profile.json"
+        }
+      ]
     },
     {
       "id": "pillars-of-eternity",
@@ -38,18 +50,6 @@
           "id": "community",
           "name": "Pillars of Eternity Community",
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/pillars-of-eternity/profiles/community/profile.json"
-        }
-      ]
-    },
-    {
-      "id": "scritchy-scratchy",
-      "name": "Scritchy Scratchy",
-      "twitchSlug": "scritchy-scratchy",
-      "profiles": [
-        {
-          "id": "community",
-          "name": "Scritchy Scratchy Community",
-          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/scritchy-scratchy/profiles/community/profile.json"
         }
       ]
     },
@@ -66,14 +66,14 @@
       ]
     },
     {
-      "id": "starcraft-ii",
-      "name": "StarCraft II",
-      "twitchSlug": "starcraft-ii",
+      "id": "scritchy-scratchy",
+      "name": "Scritchy Scratchy",
+      "twitchSlug": "scritchy-scratchy",
       "profiles": [
         {
           "id": "community",
-          "name": "community",
-          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/starcraft-ii/profiles/community/profile.json"
+          "name": "Scritchy Scratchy Community",
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/scritchy-scratchy/profiles/community/profile.json"
         }
       ]
     }
