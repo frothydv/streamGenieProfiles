@@ -468,6 +468,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "akabeko",
+      "payloads": [
+        {
+          "title": "Akabeko",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "akabeko-1776709332305.png",
+          "w": 73,
+          "h": 67,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
