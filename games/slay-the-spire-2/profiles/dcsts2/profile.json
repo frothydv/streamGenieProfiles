@@ -45,6 +45,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "enemy-buffing",
+      "payloads": [
+        {
+          "title": "Enemy Buffing",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "enemy-buffing-1776649830385.png",
+          "w": 35,
+          "h": 41,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
