@@ -58,6 +58,18 @@
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/music/profiles/community/profile.json"
         }
       ]
+    },
+    {
+      "id": "starcraft-ii",
+      "name": "StarCraft II",
+      "twitchSlug": "starcraft-ii",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/starcraft-ii/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
