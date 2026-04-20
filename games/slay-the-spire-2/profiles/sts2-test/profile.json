@@ -22,6 +22,29 @@
           "srcH": 720
         }
       ]
+    },
+    {
+      "id": "floor",
+      "payloads": [
+        {
+          "title": "Floor",
+          "text": "The # of the floor the player is on.  Events, Combat, shops, etc all count as 1 floor.",
+          "image": null,
+          "popupOffset": {
+            "x": -28,
+            "y": 17
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "floor-1776685557484.png",
+          "w": 30,
+          "h": 35,
+          "srcW": 1280,
+          "srcH": 720
+        }
+      ]
     }
   ]
 }
