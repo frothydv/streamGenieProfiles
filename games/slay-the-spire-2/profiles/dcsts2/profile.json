@@ -1,3 +1,27 @@
 {
-  "triggers": []
+  "triggers": [
+    {
+      "id": "strength",
+      "payloads": [
+        {
+          "title": "strength",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -26,
+            "y": 15
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "strength-1776649744286.png",
+          "w": 34,
+          "h": 34,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
+    }
+  ]
 }
