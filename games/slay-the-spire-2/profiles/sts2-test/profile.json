@@ -68,6 +68,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "players-gold",
+      "payloads": [
+        {
+          "title": "Players Gold! $$$",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 58,
+            "y": -20
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "players-gold-1776694471215.png",
+          "w": 51,
+          "h": 55,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
