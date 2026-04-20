@@ -353,6 +353,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "stolen-card",
+      "payloads": [
+        {
+          "title": "Stolen Card",
+          "text": "This enemy has stolen one of the player's cards.  They will have the choice to take it back if they defeat the enemy before it flees.",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "stolen-card-1776702125467.png",
+          "w": 38,
+          "h": 41,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
