@@ -169,6 +169,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "regal-pillow",
+      "payloads": [
+        {
+          "title": "Regal Pillow",
+          "text": "[Add text please!]",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "regal-pillow-1776687109391.png",
+          "w": 64,
+          "h": 57,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
