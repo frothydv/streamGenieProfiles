@@ -215,6 +215,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "back-arrow",
+      "payloads": [
+        {
+          "title": "Back Arrow",
+          "text": "Return to the Floor in Progress",
+          "image": null,
+          "popupOffset": {
+            "x": 32,
+            "y": -22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "back-arrow-1776689811406.png",
+          "w": 92,
+          "h": 75,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
