@@ -20,8 +20,14 @@
           "id": "dcsts2",
           "name": "DCSTS2",
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/dcsts2/profile.json"
+        },
+        {
+          "id": "sts2-test",
+          "name": "STS2-Test",
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/sts2-test/profile.json"
         }
-      ]
+      ],
+      "twitchSlug": "slay-the-spire-2"
     },
     {
       "id": "pillars-of-eternity",
