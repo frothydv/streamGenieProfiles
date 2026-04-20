@@ -1,46 +1,13 @@
 name: Auto-merge trusted submissions
 
 on:
-  # Bot-opened PRs: auto-merge immediately (bot account is the profile owner)
-  pull_request:
-    types: [opened]
-  # Community PRs: auto-merge once a profile owner approves
+  # Auto-merge once a profile owner approves a community PR.
+  # Trusted contributors commit directly via the worker (no PR needed),
+  # so every PR here is a community submission requiring review first.
   pull_request_review:
     types: [submitted]
 
 jobs:
-  auto-merge-bot-pr:
-    name: Auto-merge bot PR
-    if: |
-      github.event_name == 'pull_request' &&
-      github.event.pull_request.user.login == 'frothydv'
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
-    steps:
-      - name: Merge PR (squash)
-        id: merge
-        # Squash merge reduces conflicts when multiple PRs touch the same file.
-        # continue-on-error so the next step always runs.
-        continue-on-error: true
-        run: |
-          gh pr merge "${{ github.event.pull_request.number }}" \
-            --squash \
-            --delete-branch \
-            --repo "${{ github.repository }}"
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Comment on conflict
-        if: steps.merge.outcome == 'failure'
-        run: |
-          gh pr comment "${{ github.event.pull_request.number }}" \
-            --body "⚠️ Auto-merge failed (likely a merge conflict with a recently merged PR). A profile owner can resolve the conflict and merge manually, or close this PR if it is no longer needed." \
-            --repo "${{ github.repository }}"
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
   auto-merge-on-approval:
     name: Auto-merge on CODEOWNER approval
     if: |
