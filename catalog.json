@@ -12,6 +12,18 @@
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/community/profile.json"
         }
       ]
+    },
+    {
+      "id": "pillars-of-eternity",
+      "name": "Pillars of Eternity",
+      "twitchSlug": "pillars-of-eternity",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "Pillars of Eternity Community",
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/pillars-of-eternity/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
