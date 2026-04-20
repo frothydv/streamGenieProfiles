@@ -36,6 +36,18 @@
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/scritchy-scratchy/profiles/community/profile.json"
         }
       ]
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "twitchSlug": "music",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "Music Community",
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/music/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
