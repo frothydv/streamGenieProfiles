@@ -10,21 +10,25 @@
           "id": "community",
           "name": "STS2 Community",
           "description": "Community-maintained annotations for Slay the Spire 2.",
+          "verified": true,
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/community/profile.json"
         },
         {
           "id": "dc-sts2",
           "name": "DC-StS2",
+          "verified": false,
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/dc-sts2/profile.json"
         },
         {
           "id": "dcsts2",
           "name": "DCSTS2",
+          "verified": false,
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/dcsts2/profile.json"
         },
         {
           "id": "sts2-test",
           "name": "STS2-Test",
+          "verified": false,
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/sts2-test/profile.json"
         }
       ]
@@ -37,6 +41,7 @@
         {
           "id": "community",
           "name": "StarCraft II Community",
+          "verified": false,
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/starcraft-ii/profiles/community/profile.json"
         }
       ]
@@ -49,6 +54,7 @@
         {
           "id": "community",
           "name": "Pillars of Eternity Community",
+          "verified": false,
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/pillars-of-eternity/profiles/community/profile.json"
         }
       ]
@@ -61,6 +67,7 @@
         {
           "id": "community",
           "name": "Music Community",
+          "verified": false,
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/music/profiles/community/profile.json"
         }
       ]
@@ -73,6 +80,7 @@
         {
           "id": "community",
           "name": "Scritchy Scratchy Community",
+          "verified": false,
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/scritchy-scratchy/profiles/community/profile.json"
         }
       ]
