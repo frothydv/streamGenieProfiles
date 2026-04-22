@@ -37,7 +37,7 @@
       "payloads": [
         {
           "title": "Gold",
-          "text": "The player's current gold count.",
+          "text": "The player's current gold.",
           "image": null,
           "popupOffset": {
             "x": -31,
