@@ -675,6 +675,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "bread",
+      "payloads": [
+        {
+          "title": "Bread",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -27,
+            "y": 21
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "bread-1776880985823.png",
+          "w": 66,
+          "h": 52,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
