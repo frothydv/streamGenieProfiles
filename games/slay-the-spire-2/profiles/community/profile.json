@@ -13,7 +13,7 @@
       "id": "map-icon",
       "payloads": [
         {
-          "title": "Map",
+          "title": "Map Icon",
           "text": "Click to view the act map.",
           "image": null,
           "popupOffset": {
@@ -29,7 +29,7 @@
           "h": 73,
           "srcW": 1920,
           "srcH": 1080,
-          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAABJCAYAAAB4mKumAAAEs0lEQVR4AeycuYsUQRTGp73w1kATD9TEQDwSwSvQXAUNBANBTBQMTFQUM0XwBv0LVAQxU1ARQUEDj8T7NlHwCBQDEfF2/H2zO7Oz3T3V1T0zZXdvLe+bel39qvrVr6tnd3qrZ1DF/6Qm4KGlRlapeGgeWgYCGZr4mVYUaNVqdRW6gN6i372Sfx5/VYZxOG3idKYBZBy6xQjPouVoMhrcK/kr8M8ScwONwLcyYmejw+gV0kmgaNgXvGuoYyfDGTSSXgOBD2ghSrLFBHyizVrKiFEvSNspb6HfBDxCW9F0pJNA0bDReEuRTgbhDfuB9wRtYV8qcwKNxCaS1Wk0DNmaZtop2o6qN8AfjvazfR8dRDoBYUhUW5lymUXkMfp8g8bgW5kTaGRyBQ1BaU1trqoRg5pH+QDtQFlB0TTWplD7mWPspEy0rkMjkY1kMRdltQX0oUvoAh3MRN2ygI73cazxlEbrOjSOvge1a/voQLOBouv2JOkILqBNSErCYv9Ii5hOhUxith0yddZhaLGH6vT7T+xBOly5ydSfC2im4+d1X+M3dlyCHloclYr5RoaHFg/NWOuhxeP5FV/dU+uh9XAIv34MVzRve2jNNPr8XX1u1PPQokw+B0FwMlrdV+Oh9bGoe7rDUvdjSxfQqrFHzmfl5SAInial5gLa36QkcrL/JXnoxiiF2VxA+25OIRd7/5DFWmaZSlyzuYB215zCf9/7jAxGAOwepZW5gHbTKpO4IDd1cwBm/GM2nIYLaMfDB83TNsCsLsnmnLsOjaReNB+wDH7XoZUBUngMHlqYiMW2h2YBKRzioYWJWGx7aBaQwiEeWpiIxbaHZgEpHOKhhYlYbLuCVpQ7HRbIEv5VZdWDXdB7u7BiRLmaaZfygKNTObiCdqRTCeehHyfQyvah3Qm0arWa+M+KPMwg2xycQCMZLcqjKIe5guZnms184ZLUCuwTlPoX/1SbNkWJSTXTACAQWq//Av8namkA0DL19ZSdWAlJN/kxK2iQ0VJ0Lal8SOpar68Fw0PxB6QlQgOYlqI/h842FKABb0ZoANMySi1FnzbgSTUBMEIj7gBytRSdQxXDWkJjlunPhM3FGIbbLFtCI43dyL+HASFsvdDC1bXt+bVX/xIhYII2NhLtK2oETND8pVlDFH0xQUu1kibadXlrTNDelXfY7Y3MBE0PtrbXe0lbm6DpFnXqtVsl5dRvWC2h9d6i1sOp/Rr4jYr5aTMA7UX6sE5RSvuRZVQtZ5o6Y7ap03X4Zb1MtUiZ4aUzIzR1Bbg7lPq6B314L9KDFKSdaNsTI2ICEqGpDeB+IX39gr71QL8gXlMfnn1FA6qnUzL9hWAFDUA1A9xjtA3NQENQsw2qbxC8Gl1HX1FamIrXCVFJ84ipXtJbh77ZIMs6ET0QsjLSs2VFKmiWfVaCIDgHwGVoNGrAxLcxxeuEqIyLV700nJ2zyUm33ylS2QbaZv7E0xVoqdJvM5jBH6ULfQWFzUMetxVLmzOUma3w0DRyIHxDS/D1tqDb8/oIqEtckn9R+4hZhL7ht2WlgFYnABC9LayknIJ0iUvyV7B9rh7XblkqaO3CsG3vodmSaorz0Jpg2Lr/AAAA//+u3c12AAAABklEQVQDANXlUaKTuZ5fAAAAAElFTkSuQmCC"
+          "maskDataUrl": null
         }
       ]
     },
