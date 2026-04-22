@@ -725,6 +725,30 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "elite-combat",
+      "payloads": [
+        {
+          "title": "Elite Combat",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "elite-combat-1776894943663.png",
+          "w": 47,
+          "h": 44,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAsCAYAAAD1s+ECAAACvUlEQVR4AeyYPWgUQRTH7xJj4wfaKQraaGHlR2NngjYqSsBKECxs7EQ0RQRBEYlGQbG2ENJYWKWxEqNg62mRQhBU7MWgCH7E8/e/zG12z8zuzO7cbpYkvF9mdmbee/95M2RzN9Co8c+q+KoOb2VUvt1ub4MxmIRHVVU7ntep8ojVuikcJ2EMzjI2SBvMiKcciXgag51wJzFhHv5zMOO9zVUGRiBu++IPPn3EDMEgrIdTMIv/PG3CNAYf4BITW2gTZhXP4h1wDhT4WsJr4WFiocn1+xdef+AbPIE9kGZNJkchYVbxrPoID8EW+Agbu8C8l+GzzsthcbGX+EU3e+8+YmZBJ6ST2mxfGs3ciHp+nRHybIi7pFU+vi6tr5PRCemkvpBgr20xc4eYuwh5bC1OxyGyEOKjYKbTQuQ07IY1MADbYZr5GShiiavTD/ESd4Jf7+A3zMNn0BhNITtKEYa6Efolvhs/dLuRgIehY3UTL9HR1amj+JPagaij+K3c+4N1FS/dnatTx8rXXvx37aBOlddLbj+iN8EwNCoWLwmZ6CV3hVWjzWazBXOQWXn9k3UAp6dQpb1E7AS0e0VYK8/ir/AaB/0zpA8jqgCPpdttW0ar+K4DG9COb/L8DKqwV7akmeLlaDYwrn7JDJO7c7+Xyusk3ji+NW1ZzT2Ev0hL5iyeQGXf+etpwjXnLF6Ly4RizWXl8xV/moBlnwAplzYv8VTjMWHOwLLYgJd4RDfMBp6rXzXe4o3gu6btR6M3+i6XwHnFt1yCe67RVRznZI/BexffvOIz/xK4JO9ZM4PoWz1jqY+5xJPkJ1EfQEjzfoPnEm8UX6Z9A6HM+w2eWzzV1xdK+iz5I5B6xfMKlVu8srCBT7TnIYTpa2yvOIXEKxMbmIIQ9lfxfCgs3idZ6LWr4kNX1DVe4cq7JurHun8AAAD//wBHCoYAAAAGSURBVAMA9urOWfbUZPMAAAAASUVORK5CYII="
+        }
+      ]
     }
   ]
 }
