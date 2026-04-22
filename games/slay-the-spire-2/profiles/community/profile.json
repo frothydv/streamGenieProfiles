@@ -565,12 +565,12 @@
       "id": "black-star",
       "payloads": [
         {
-          "title": "Black Star",
+          "title": "Relic - Black Star",
           "text": "Elites drop an additional Relic when defeated.",
           "image": null,
           "popupOffset": {
-            "x": -7,
-            "y": 29
+            "x": -29,
+            "y": 26
           }
         }
       ],
