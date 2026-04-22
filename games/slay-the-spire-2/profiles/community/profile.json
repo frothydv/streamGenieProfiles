@@ -652,6 +652,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "draw-pile",
+      "payloads": [
+        {
+          "title": "Draw Pile",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 21,
+            "y": -21
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "draw-pile-1776880845927.png",
+          "w": 101,
+          "h": 99,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
