@@ -13,7 +13,7 @@
       "id": "map-icon",
       "payloads": [
         {
-          "title": "Map Icon",
+          "title": "Map",
           "text": "Click to view the act map.",
           "image": null,
           "popupOffset": {
@@ -29,7 +29,7 @@
           "h": 73,
           "srcW": 1920,
           "srcH": 1080,
-          "maskDataUrl": null
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAABJCAYAAAB4mKumAAAFMklEQVR4AeycOYgUTRiGe9fjX39/fg/wCkQxMvAEQVFEDUwUQVFT8UDRQBPXTRRBQQQPDI1ERcy8AgUxEBXByAMVxAPRyAMURfBadX1etseD6erp6qma6Zpt+V6rprqrvu97prpnprt626PynzWBEpo1sigqoZXQchDI0aWcaSW0HARydClnWtGh9fT0LEXn0Uv0Hf1AKqVv1Ltjqa5tvEw17aO+6veZPd+hS6gTTcrBI1OXhsw0EhiCbhDRWbQYjULy3RaXqvej3j+W6trGy1TTPuqrfv+w5xC0EO1Hd/H5Bn1AH2M5gSqHjO/PCHYlo79Gs1AjTUCH4/A/NCjWn1DvEZuAHqe0mpVeoRHMCII9iQaiIpqAriIwAdxHvAOo1zSv0PB+CWUKhP2abdsI4BHgplOmmjdoON+A52koJBtPsKeIPfXIcAwNl79t++9qULUJRLsbGc0ntJFGr8Xf0MVsm2MK0ye0DpPTANr1ybveFKdPaD9MTgNpn2iK0ye0tyangbQ3BdqTQOCYwvxs2uBzpu0yOQ2k/Y4pTm/Q2traLuL0KgrVGg8tJrWEshuFZor5iClobzNNDpltHyhfoNBsJ7E/NgXtFVrsdExchlLcJlBdWqJItkZAC+UHuwjpu+U6Ztl3vTCpEdBMvovWfpCAOgCmmUbVbMWGZo7bxRbNppcMdBxNBlYn0gcAL9Otr0I7DKD+aAxaje6nY/p7q1doXCkY/Le7wrzaRGxD80bjFRpB7UFFtad5A/MGjXdyNkFtRkW1YcR4KE9w3qARzBbkc3yGr9sUo/UgPpPSTLMOqMEd2pltG219eoFGIHMJZCwKwXbYBukcGsBmEkRIVzesf+Y5hQYwfcW4DDRdY6cIwqwZWHeogUHfrv+tsU/wm51BY5bpxL88eCIZEnAGDV+hX94mhWzmEtqMbC6bt5crzy6h/e8qqKKP4xKay7EKza3PJJryLug+Rsrm6k0ltCi6UI0lvaWEFkU70xFVb+3z0Lhqa7xVV42rtyUXNL7ITkIH0DOkJek9vcP1jf+toAGoA+me4F3wbEXjkNUY7B+8ZU4YWFPJ9gHqRCH9ICdco+U6QjJBA5iuXpzBtRbyUrSM6YmX1EXJSZlmgkZH3SDRAl6qLWV6MiZ1UXJStjWhMct09aLIN0iS8rJp20aOxkXJSQPVhEYn3XzIsh+7BmnKzbgoOSkjdYiiKGnTrzbj2tNfe4RfscoxC7RWO/knvcXOoRkX7CZ5D7TNKscsM8249jRQQElhW+VYQutF6BzaUcb9ilrVtCbNuCg5KemaM42rAA/puBe1qqUuSk5Kuia0uJOg3YrrrVRoqaguQFjllAkas+0Lo+qhVy25pNoSplxqLkpOyjQTNHUE3E1KPUB/jDJk05UNza5B5KSZZp1LZmgaGSfdaA11Pedt9d2GPs00gXpOAFrBPYUcupA+AGiyNytoleFxqI/oZZXXTS4FJCmEjzReQ8uItx2NR1rBbbUomf5VlguaRiEAPTB2XXXP0ulgIP5MJiBJ2wbTOA+dcx1fbmhxIIsoq7/D0Vin6dA/wRha37+GxHMfSozh3OqCRjK60brWYVRXGGs64+okvYqy7kOJ8ZxbXdAUDYnpL7xoTZr+lpCabPSNnQVGJ2jNqgWMp/MlzcW1uqEpNRL9hHSFVx8OWjr6nvbKCVoPaelw04n5Fe2nURcSpAH0U+nkBM2YDTEn0CqRAuAcmo+GosoJuh91HW46MY+mvgLtR5phla5BlU6hBZV5HcGW0HLA+wkAAP//zHPa7wAAAAZJREFUAwBkB3aiRtQBCwAAAABJRU5ErkJggg=="
         }
       ]
     },
