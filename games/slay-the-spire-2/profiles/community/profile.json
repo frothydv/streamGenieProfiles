@@ -629,6 +629,29 @@
           "srcH": 1080
         }
       ]
+    },
+    {
+      "id": "anchor",
+      "payloads": [
+        {
+          "title": "Anchor",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "anchor-1776880548422.png",
+          "w": 55,
+          "h": 58,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ]
     }
   ]
 }
