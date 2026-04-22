@@ -87,8 +87,8 @@
           "text": "The current floor the player has reached.",
           "image": null,
           "popupOffset": {
-            "x": -30,
-            "y": 25
+            "x": -16,
+            "y": 26
           }
         }
       ],
@@ -98,7 +98,8 @@
           "w": 55,
           "h": 57,
           "srcW": 1920,
-          "srcH": 1080
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAA5CAYAAACS0bM2AAABa0lEQVR4AeyWwU0DMRBFIcccOCIOcIYOoAPoADqADqAD6AA6gA6gA+iAdBDlnAI2L7dVDnbGsseT1V/5ayPZHv8/L6vd2dGEL4U7VLgi15vcMAwzdInu0Sv6Rsucr3DkMD1H1+gRvaNfQqzRAn2hF3SHzlBydA2H8VN0i57RJ/rH7TbIH/cP9IRu0ByZR7dwBDnB7Qr9oDf0gK5QNU/VCmHKOs6tG6zre4a7sJq1ru8ZbtLkJh1Of0vrczZe3/OZE7kxCevv6uR4Oe81MLp9iXNrN6qHa2fVXrlPOLvPoh0KV9S2AJtELgCEIgsiV9S2AJtELgCEIgtZcnt9S40WFblotCkbrtG5LmUVzqXNDQ4RuQZNdSkpci5tbnCIyDVoqkvJHXIuZ7odonBura58kMhVbqhbuSy548BXrkvZcLkCkecVLjKdlDeRS3Un8pzIRaaT8iZyqe5EnhO5yHRS3kQu1Z0ac61qTJrcBgAA//8n2QGfAAAABklEQVQDAEPNnHOyTHw+AAAAAElFTkSuQmCC"
         }
       ]
     },
