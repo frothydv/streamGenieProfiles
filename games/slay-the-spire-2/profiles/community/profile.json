@@ -13,12 +13,12 @@
       "id": "map-icon",
       "payloads": [
         {
-          "title": "Map",
-          "text": "Click to view the act map.",
+          "title": "Map Icon",
+          "text": "Click to view the act map",
           "image": null,
           "popupOffset": {
-            "x": 14,
-            "y": 22
+            "x": -28,
+            "y": 28
           }
         }
       ],
