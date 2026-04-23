@@ -142,10 +142,11 @@
       "references": [
         {
           "file": "ascension-10-fight-two-bosses-at-the-end-of-act-3-1776613660709.png",
-          "w": 27,
-          "h": 32,
+          "w": 41,
+          "h": 48,
           "srcW": 1280,
-          "srcH": 720
+          "srcH": 720,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAgCAYAAADjaQM7AAAC8klEQVR4AZSVsZUUQQxExb2Hw8PBhhAIABdSIAxsHg4RYBMGKYBLAGQARIFxzZeqp0bTs7sH86rVpVJJfT27d3cX8agQpwfdGhxkOvK5HwOM/304bESAHHRcEnUGHLiOCJR2HcUpBHQlOIzcnXADEajB4kKo4pEIhziFACkqzcNmQqUgEyIQLzl4bS/EtpfRq53jopcoUMqUm8GQHCFZiPwsYxsKAei/NgUbioAu0qMNVEGmHAbD5AjJwjaUUoFbvSlyIVzy7zaqgLHzNbqCCs8CW+TlpEQ+X8UVUziua7pcWeVmJMnYjreRmAdzK/nKczuk/+iQkvHGEMpAjeOJ9hmtz3zbrJtQ0Q+dUYf1GuUzHn08aNl5EPZEJcV1rA7bvZGfU7SHvxTPSD+wLv/uZ2FbOoNMxygVR1y/IEiuyUr8iVqA174Gt7jQneLp4WYkQD4IEB/5S/wO/pR1E2rJcddt6eEwDPZBAEoe9I39M+sMPEA6BMBzHNslYADn18jX/BXrDz2vWZfBXOCaeU7cVHMIBhB3Y9w/H2O8ZX1i/eBb8B3/Y9YR9HTBaU7pheJUrZvUzX5T/8J6z3rJ4ryMWrSJ0GNuopKjPRDE1cZntkj4AFbhzOW3rlTmByKHqa33XOOahR+IEzs/pyj7NA4jB+6hdpHjETCIKC6pxB6ZNj0cJqaIiRpRMKcKFnFJbUAXd/tUOKxLU2UrqAeKBzhFOQODxc4RSUF9G8li/klkHCox6jGXQlryGlRd1S3fq9xsE/f9PHRR9v5qcnXRqzivkZzDcIBMohUiH3QNgpArQhDNSQ10804wg/kar5msiyhqinlOkXT8R79puWMGeRibGyAg67U6L2GGrtM+1Qc3XiOe3gD3rM6xGejmNltZyG7gsD2J+Zn1Wea2iShGZEvnUY8URSZAwHyNZbgVsKoHE8QRAqRAAE6iFEWlybkZiRydwIH1tEZeIuqxXtk/Bx3GLPVDeqtTVVWCW0chJRoqLeKs/gUAAP//i97DDgAAAAZJREFUAwBoDP/QVB1iQAAAAABJRU5ErkJggg=="
         }
       ]
     },
