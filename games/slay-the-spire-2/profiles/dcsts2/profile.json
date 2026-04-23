@@ -69,28 +69,5 @@
         }
       ]
     },
-    {
-      "id": "dc-s-gold",
-      "payloads": [
-        {
-          "title": "DC's Gold",
-          "text": "",
-          "image": null,
-          "popupOffset": {
-            "x": 14,
-            "y": 22
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "dc-s-gold-1776649866865.png",
-          "w": 52,
-          "h": 52,
-          "srcW": 1920,
-          "srcH": 1080
-        }
-      ]
-    }
   ]
 }
