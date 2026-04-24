@@ -766,8 +766,8 @@
           "text": "At the start of each combat, apply 1 \nVulnerable to ALL enemies.",
           "image": null,
           "popupOffset": {
-            "x": -28,
-            "y": 16
+            "x": -27,
+            "y": 18
           }
         }
       ],
