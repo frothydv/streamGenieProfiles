@@ -1097,6 +1097,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "infinite-blades",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Infinite Blades",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "infinite-blades-1777146867069.png",
+          "w": 117,
+          "h": 52,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
