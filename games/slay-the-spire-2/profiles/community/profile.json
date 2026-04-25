@@ -1072,6 +1072,31 @@
         }
       ],
       "rotates": true
+    },
+    {
+      "id": "hotfix",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Hotfix",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "hotfix-1777138184896.png",
+          "w": 93,
+          "h": 48,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
