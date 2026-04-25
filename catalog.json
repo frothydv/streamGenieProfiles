@@ -18,6 +18,12 @@
           "name": "DCSTS2",
           "verified": false,
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/dcsts2/profile.json"
+        },
+        {
+          "id": "thecoolestprofie",
+          "name": "TheCoolestProfie",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/thecoolestprofie/profile.json"
         }
       ]
     },
