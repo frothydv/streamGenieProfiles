@@ -1122,6 +1122,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "dagger-throw",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Dagger Throw",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "dagger-throw-1777146927786.png",
+          "w": 108,
+          "h": 50,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
