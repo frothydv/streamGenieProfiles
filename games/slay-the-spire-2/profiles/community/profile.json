@@ -1047,6 +1047,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "strike",
+      "payloads": [
+        {
+          "title": "Strike",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -8,
+            "y": -63
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "strike-1777137625828.png",
+          "w": 99,
+          "h": 51,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
