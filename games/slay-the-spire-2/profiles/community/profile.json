@@ -974,6 +974,30 @@
           "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAABECAYAAAArxNNGAAAEdElEQVR4Aeyb34tNURTH5w4mTCjFk4YXShReyI8m5dXUeFCUKDUePIkXUiNeUJP8ASNekFIzZYrkZRoKNVFKDEV5EnlgkPl1fVbdU2fu3Hv3Xmfvc+69Z/a0vu19Zu+91tqf2ef3mdaW8KMiEICpcLW0BGABmJKAsntYYQGYkoCye1hhAZiSgLJ7WGGNAqxYLHajYTSOZpCtTdPxM+pDm5XzSb279xXGJFeg52Q+gDpROyogW5Oc1tL5DHqDrxdoK/WGMEnOWyJM7CDOvqEdyJdtx9ErfI+huoPzBozJrGJit9EilIatx6mAu0WstGIQorZ5A0aYxyjBRBils2N0l9W2jTJz8wKMv/gJMs9yd1lHvFHi2tpvOl5kjLN5AUYW51HWpjmRLCW5XqBdpnQyX8BWO2WR3eDTrqF8AVvsmkhG49tYZd0usXwBm3FJIuOxV1zi+QL2wyWJjMfK5UnikL6AfUycQfYDW9ktn6L9SUL7AubllJ1kAgnH7GbcA6Cpj2degBUKhUckMIwawaYUSQwAbQrdsR3jBVgpWBflH1RvW6hMYAH9DwPtPqXRfAKbJNpr1Kx2wCZxL8D462wh2Hu0CzWrWbGw6lSLALDkedcQfTpQc5oia2dgxLqK1qB5YU7AWF2yC56cF6RKk3QChg+5/tI8NWBIc5srMFlhzU1Amb0rMHnOpAzZsN0nbDJzBWYTo1n6XLNJNO/ALtlAkD7c3p2T0qRcAwPCBRMAbXtiYKVLCm28TPuTo/pphCnBxMBwfB01ujk9Xa00ORdgdXkvWGkSNX63oUbbrCZWo9UDRRdg2scosxLMaENzUW31QNEFWEZzzjTMDVO0tICZ4jZq+0pTYgGYiVBZewBWBsS0GYCZCJW1uwD7VeYrD5vGN04uwB7mgVDZHPrKtudsugDrxVsR5cVmuPc03oAnBoZzeUvk/dajjvQ/2MRODKzkXB5RfyrV61l89RD8rI0PJ2Cssn8EkS+npynraUcILm/ev1MmsQnmMmgz0AmYBCDQKOUSJK/bKDK3EXJ4goaQfMkt4LTfq1k9bZWZOQMTJyQ6iWRJy/f5WZ4I5DJgn+QQk3yZo5nXPXI3Huwj/xrH0ZiqJYFf0tiDsrKjxJRvOuLxTsU3THXGHzL1ibd7BSaOSUDu+I9LPWXtJNbdCjFK39tWaJn7K6s3RfFh3oGJcyZyk1Jewb2j9G1fcNhGDPl/JqpOZn3siqKkAkycM6G/aCN1+YxIPrZz/XZMzsSd+OxA5bshYdSmOnZF3lMDFgVgcoNoL2pHVY3+/UjuT+MnDamP8/t+Bi5EI9RNJmNMfZ7hS3XsihymDiwKZCqZQA9ajlpRZFJfxobmRDJmiPUTf3sMfao2NwywqhnqG+TyptYo+eeuWu0123IHjNUjV+xy8fqWmctxT3ZRKWW7q9ROUzLLHTDBABS56t9EKcc92a2llG35UlK6JFYugSWmYTEwALOAFO8SgMVpWNQDMAtI8S4BWJyGRT0As4AU76ICFh84X+v/AQAA///QgN+KAAAABklEQVQDACLyMpgZveRiAAAAAElFTkSuQmCC"
         }
       ]
+    },
+    {
+      "id": "black-hole",
+      "payloads": [
+        {
+          "title": "Black Hole",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -6,
+            "y": -63
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "black-hole-1777135191110.png",
+          "w": 117,
+          "h": 58,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
