@@ -1147,6 +1147,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "shiv",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Shiv",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "shiv-1777146967572.png",
+          "w": 86,
+          "h": 80,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
