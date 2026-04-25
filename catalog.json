@@ -39,6 +39,19 @@
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/starcraft-ii/profiles/community/profile.json"
         }
       ]
+    },
+    {
+      "id": "backpack-battles",
+      "name": "Backpack Battles",
+      "twitchSlug": "backpack-battles",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/backpack-battles/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
