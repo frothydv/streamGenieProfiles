@@ -1200,6 +1200,7 @@
     },
     {
       "id": "defend-ironclad",
+      "rotates": true,
       "payloads": [
         {
           "title": "Defend (Ironclad)",
@@ -1224,6 +1225,7 @@
     },
     {
       "id": "strike-ironclad",
+      "rotates": true,
       "payloads": [
         {
           "title": "Strike (Ironclad)",
