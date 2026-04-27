@@ -1320,6 +1320,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "defend-necro",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Defend (Necro)",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -15,
+            "y": -63
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "defend-necro-1777312565133.png",
+          "w": 87,
+          "h": 87,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
