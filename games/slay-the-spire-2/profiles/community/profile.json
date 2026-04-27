@@ -1345,6 +1345,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "strike-necro",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Strike (Necro)",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "strike-necro-1777312635101.png",
+          "w": 85,
+          "h": 84,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
