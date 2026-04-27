@@ -1220,7 +1220,8 @@
           "srcH": 1080,
           "maskDataUrl": null
         }
-      ]
+      ],
+      "rotates": true
     },
     {
       "id": "strike-ironclad",
