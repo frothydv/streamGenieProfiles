@@ -1196,6 +1196,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "defend-ironclad",
+      "payloads": [
+        {
+          "title": "Defend (Ironclad)",
+          "text": "Gain 5 block.",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "defend-ironclad-1777305721561.png",
+          "w": 99,
+          "h": 92,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
