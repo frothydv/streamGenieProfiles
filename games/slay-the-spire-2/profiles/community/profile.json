@@ -1370,6 +1370,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "strike-necro-retake",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Strike (Necro) Retake",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": -54
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "strike-necro-retake-1777313965734.png",
+          "w": 93,
+          "h": 113,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
