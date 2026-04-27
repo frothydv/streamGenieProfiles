@@ -1246,6 +1246,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "defend-regent",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Defend (Regent)",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "defend-regent-1777308728474.png",
+          "w": 106,
+          "h": 90,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
