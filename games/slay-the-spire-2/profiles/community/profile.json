@@ -1220,6 +1220,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "strike-ironclad",
+      "payloads": [
+        {
+          "title": "Strike (Ironclad)",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -19,
+            "y": -64
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "strike-ironclad-1777305778082.png",
+          "w": 80,
+          "h": 101,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
