@@ -52,6 +52,19 @@
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/backpack-battles/profiles/community/profile.json"
         }
       ]
+    },
+    {
+      "id": "hearthstone",
+      "name": "Hearthstone",
+      "twitchSlug": "hearthstone",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/hearthstone/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
