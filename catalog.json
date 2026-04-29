@@ -65,6 +65,19 @@
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/hearthstone/profiles/community/profile.json"
         }
       ]
+    },
+    {
+      "id": "punk",
+      "name": "Punk",
+      "twitchSlug": "punk",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/punk/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
