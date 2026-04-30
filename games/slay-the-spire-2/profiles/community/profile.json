@@ -1395,6 +1395,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "block-potion",
+      "payloads": [
+        {
+          "title": "Block Potion",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -17,
+            "y": 10
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "block-potion-1777570427955.png",
+          "w": 57,
+          "h": 63,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
