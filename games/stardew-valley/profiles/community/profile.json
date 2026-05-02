@@ -71,6 +71,30 @@
           "maskDataUrl": "data:image/png;base64,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"
         }
       ]
+    },
+    {
+      "id": "fishing-pole",
+      "payloads": [
+        {
+          "title": "Fishing Pole",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -6,
+            "y": -55
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "fishing-pole-1777690418418.png",
+          "w": 57,
+          "h": 65,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAABBCAYAAABraQwpAAABd0lEQVR4AeyWsQ3CQBAEMZVQAzGiBEgIaYJKKIKUAEoAkVIDdGL2kEEkJ/Gnl/4WFt3JL7//vbtjYY9Hhb++769oqio2iUw2aKoqNtl13RkOj2iaKjY5ONsPR4pD1OSFwt0gMmQSj+x9WE9xCJmkcPYhMmQS74/Jxx7phyGTcDVD01TU5IrGIYQWm8SjOse6JZqmik3C2RZNVUUmQdG+dKZUDiF2DOH2+GHol12DvuKKBZqujOQJBg7oNfr9arAx2s4d4OqEpiMIzc8ykzawP5IdBjcYe5aN0XbO5jDkrZdJXgdfKP8hk75bmfSz4ZoRSS5evlqR9LPhmhFJLl6+WpH0s+GaEUkuXr5akfSz4ZoRSS5evlqR9LNpNxO5s0hGUsu4RiQzUoloEslIahnXiGRGKhFNIhlJLeMakcxIJaJJJCOpZVwjkhmpRDSJZCS1Omvq7iKSdfNst5tItsu+7p1Fsm6e7XYTyXbZ172zSNbNs91uf0HyAQAA//9UeoC9AAAABklEQVQDAFb4759ahXiOAAAAAElFTkSuQmCC"
+        }
+      ]
     }
   ]
 }
