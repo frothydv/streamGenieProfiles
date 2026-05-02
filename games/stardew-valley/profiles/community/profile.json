@@ -119,6 +119,30 @@
           "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAABGCAYAAAB7ckzWAAADS0lEQVR4AeybPWsUURSGs+sn/gBBYiMoImhU1ICVjbZq1FbQwsLab2Ml+JlERH+AjZUY8KO0E7RQEeNKFEEMopWFlUSyxPV5w+yuJlnnztyZnXsndznv3jt7zz1znnOWXTaZqTYW8KPa8+/jHYdD6BBaHUnzYeZaYyiPNeF/gXQWba5UKqfRKPoWSfNTWkPnUR2VwgRfg0TQ14D9zXxe0xq6wmI/Gkfem+D7gfpoSoLvG3z3oinktVWB0Vs+EQR7PrFhEHlt6nxagBE2PkPeWmp4ut+A+hLy1lLDR8Qvo9HLwRb+h5fUUdK28B2/GqP4Tg+28EucpotJzha+Nya+08u28HucpotJLjU8PwYXEfsk8tZSw0N8Ea1D3pp+zy9PkP2MK11fy+QM8trU+RcRjBEIvnq738NZI4O/JvhNpD8O1DmkYw7nmtaQuj3J6lbkvTVh9X19GZoxAIfQQdQbSfPrWkNXkXwZ/LcmfJNkIxN9gt9n/BpJc/0lR2u8VB6bDV8eMgOSAG9QpFK6hM6Xsq0GUKHzBkUqpUvofCnbagAVOm9QpFK65N15p4sW4J1uT47Jhc7nWFynQ4fOO92eHJMLnc+xuE6HDp13uj05Jhc6n2NxnQ4dOu90e3JMLnQ+x+ImDd1V/9D5rpbboZPpquuKHuS0Bh1GD5EPpjs/TpBoH1qBFiONOta/2bXOS52t9banABPoLtqP+y70GrloukRecH3kegPV0CSaRhp1PMJcV5wsBUAsDxjnWAv+7xU2PkXbeO0RcsnGSGYDuQlOV31z2NnwqyOxDOC1Er1CLZsXvrnKxn3MXXkH/CSXAXKaYExs7PuOdrBRd4nM3Cf0X3gcZcf05IAGSf6zbR7EeEwMXUr3NhYeZ3W+6A/B5yR8G2ViMH0h0PZYeJxkN/VUoG6RcKaXtxOvbgqvyhfI3vMhj5MbwVOlom8jS/UhF1cwI/i4IF1YT3x9sElOvsBvMYFJ6hPgDStW5Nfd0UajkflV3kk6f8GwSHm4rSfocTTbrI6TwL+3OpP95mG6v8o+TDuCMTxfd9PtbYXMlnHWUZSZGcNndka7QDvp/hO7EO3dvsEr890UYAod0YGNfIQXr+72uEMBaugASsXxBwAA//82S/PgAAAABklEQVQDACNJoCoOEqjOAAAAAElFTkSuQmCC"
         }
       ]
+    },
+    {
+      "id": "coffee",
+      "payloads": [
+        {
+          "title": "Coffee",
+          "text": "Recipe: 1 coffee bean, 1 water, 1 honey",
+          "image": null,
+          "popupOffset": {
+            "x": 11,
+            "y": -60
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "coffee-1777690609473.png",
+          "w": 57,
+          "h": 62,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAA+CAYAAACRHbM9AAABx0lEQVR4AeyaMUrEQBSGN3sKCwuPIFYWskfQQgsLL2EjgicQC0GPYKuwHkERuy0ECy1EG48g2Gj83hJkhX2bzDTOH154PzOZl2Hf9/6wSZHhIOGo63qC5CIJkn7sI7lIgqyq6hbCayQVSZAN2WUzygw5kHcydE2hyZDcsm/NXpkhGVKGbKbQZEieHysz+yWmyZBQbSCpyIHckSKk2CRIbtURe7aQVCRBQnaK5KIzJC7am86aHCEFt0ICN0ITrt1EkjEEYIz20O+jwebI1sZQ3SBJB6l7Guak/ZFccPYK2DRsjmzNcky1wyC1CTpU3yNInzYg/d5oZcJJLb/8asNJvzdamXBSyy+/2nDS741WJpzU8suvNpz0e6OVCSe1/PKrDSf93vxfJueXw8mcrpW4J5ws0ZWcmsLJnK6VuCecLNGVnJrCyZyulbgnnCzRlZyawsmcrhWw55EaTpB9b7RccfTJyU/ADtEqXAfoCr1zPugL5AMwBncM2BfzP9EHyA+ItoF7ZpwbhULOrdVbPALwxUvaujrkPRDnaGGoQ57h4vdCQpLqkE8wtIY6ZKfv4dUhW120C9QhlwyiTeqQ622AlleH3DWINv0AAAD//0E1tPgAAAAGSURBVAMA5I8AhO/DpoUAAAAASUVORK5CYII="
+        }
+      ]
     }
   ]
 }
