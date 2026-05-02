@@ -23,6 +23,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "snowglobe",
+      "payloads": [
+        {
+          "title": "Snowglobe",
+          "text": "Does 5 damage per frost",
+          "image": null,
+          "popupOffset": {
+            "x": 16,
+            "y": -19
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "snowglobe-1777719819153.png",
+          "w": 44,
+          "h": 47,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,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"
+        }
+      ]
     }
   ]
 }
