@@ -1370,6 +1370,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "gunk-up",
+      "payloads": [
+        {
+          "title": "Gunk Up",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 13,
+            "y": -44
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "gunk-up-1777689934074.png",
+          "w": 101,
+          "h": 113,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
