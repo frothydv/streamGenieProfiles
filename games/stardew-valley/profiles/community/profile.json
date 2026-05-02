@@ -1,30 +1,6 @@
 {
   "triggers": [
     {
-      "id": "golden-hoe",
-      "payloads": [
-        {
-          "title": "Golden Hoe",
-          "text": "",
-          "image": null,
-          "popupOffset": {
-            "x": -17,
-            "y": -65
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "golden-hoe-1777689740339.png",
-          "w": 45,
-          "h": 44,
-          "srcW": 1920,
-          "srcH": 1080,
-          "maskDataUrl": null
-        }
-      ]
-    },
-    {
       "id": "bus-stio",
       "payloads": [
         {
