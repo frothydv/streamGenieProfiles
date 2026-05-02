@@ -1319,6 +1319,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "shiv",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Shiv",
+          "text": "Deal 4 Damage",
+          "image": null,
+          "popupOffset": {
+            "x": -6,
+            "y": -64
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "shiv-1777687471624.png",
+          "w": 98,
+          "h": 114,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
