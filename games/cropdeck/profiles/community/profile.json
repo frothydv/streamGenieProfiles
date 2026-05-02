@@ -74,6 +74,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "carrot",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Carrot",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "carrot-1777720748536.png",
+          "w": 95,
+          "h": 113,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
