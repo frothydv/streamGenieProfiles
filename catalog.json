@@ -11,7 +11,8 @@
           "name": "STS2 Community",
           "description": "Community-maintained annotations for Slay the Spire 2.",
           "verified": true,
-          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/community/profile.json"
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/community/profile.json",
+          "timesUsed": 1
         },
         {
           "id": "dcsts2",
