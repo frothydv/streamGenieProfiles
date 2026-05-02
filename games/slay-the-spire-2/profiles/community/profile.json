@@ -1178,20 +1178,20 @@
       "rotates": true,
       "payloads": [
         {
-          "title": "Defend+ (Necro)",
+          "title": "Defend (Necro)",
           "text": "",
           "image": null,
           "popupOffset": {
-            "x": -8,
-            "y": -59
+            "x": -15,
+            "y": -63
           }
         }
       ],
       "references": [
         {
-          "file": "defend-necro-1777312535629.png",
-          "w": 96,
-          "h": 92,
+          "file": "defend-necro-1777312565133.png",
+          "w": 87,
+          "h": 87,
           "srcW": 1920,
           "srcH": 1080,
           "maskDataUrl": null
