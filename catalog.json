@@ -104,6 +104,19 @@
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/stardew-valley/profiles/community/profile.json"
         }
       ]
+    },
+    {
+      "id": "dungeon-clawler",
+      "name": "Dungeon Clawler",
+      "twitchSlug": "dungeon-clawler",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/dungeon-clawler/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
