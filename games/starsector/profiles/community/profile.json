@@ -23,6 +23,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "plasma",
+      "payloads": [
+        {
+          "title": "Plasma",
+          "text": "Plasma does +3 damage",
+          "image": null,
+          "popupOffset": {
+            "x": -12,
+            "y": 20
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "plasma-1777688134023.png",
+          "w": 66,
+          "h": 65,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
