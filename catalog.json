@@ -133,6 +133,19 @@
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/cropdeck/profiles/community/profile.json"
         }
       ]
+    },
+    {
+      "id": "balatro",
+      "name": "Balatro",
+      "twitchSlug": "balatro",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/balatro/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
