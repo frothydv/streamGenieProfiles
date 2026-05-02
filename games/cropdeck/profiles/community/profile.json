@@ -1,3 +1,29 @@
 {
-  "triggers": []
+  "triggers": [
+    {
+      "id": "wooden-hoe",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Wooden Hoe",
+          "text": "Plow the Tile",
+          "image": null,
+          "popupOffset": {
+            "x": -14,
+            "y": -61
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "wooden-hoe-1777720585688.png",
+          "w": 101,
+          "h": 109,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    }
+  ]
 }
