@@ -143,6 +143,30 @@
           "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAA+CAYAAACRHbM9AAABx0lEQVR4AeyaMUrEQBSGN3sKCwuPIFYWskfQQgsLL2EjgicQC0GPYKuwHkERuy0ECy1EG48g2Gj83hJkhX2bzDTOH154PzOZl2Hf9/6wSZHhIOGo63qC5CIJkn7sI7lIgqyq6hbCayQVSZAN2WUzygw5kHcydE2hyZDcsm/NXpkhGVKGbKbQZEieHysz+yWmyZBQbSCpyIHckSKk2CRIbtURe7aQVCRBQnaK5KIzJC7am86aHCEFt0ICN0ITrt1EkjEEYIz20O+jwebI1sZQ3SBJB6l7Guak/ZFccPYK2DRsjmzNcky1wyC1CTpU3yNInzYg/d5oZcJJLb/8asNJvzdamXBSyy+/2nDS741WJpzU8suvNpz0e6OVCSe1/PKrDSf93vxfJueXw8mcrpW4J5ws0ZWcmsLJnK6VuCecLNGVnJrCyZyulbgnnCzRlZyawsmcrhWw55EaTpB9b7RccfTJyU/ADtEqXAfoCr1zPugL5AMwBncM2BfzP9EHyA+ItoF7ZpwbhULOrdVbPALwxUvaujrkPRDnaGGoQ57h4vdCQpLqkE8wtIY6ZKfv4dUhW120C9QhlwyiTeqQ622AlleH3DWINv0AAAD//0E1tPgAAAAGSURBVAMA5I8AhO/DpoUAAAAASUVORK5CYII="
         }
       ]
+    },
+    {
+      "id": "triple-shot-esspresso",
+      "payloads": [
+        {
+          "title": "Triple Shot Esspresso",
+          "text": "Recipe ?",
+          "image": null,
+          "popupOffset": {
+            "x": 11,
+            "y": -60
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "triple-shot-esspresso-1777690656148.png",
+          "w": 57,
+          "h": 62,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAA+CAYAAACRHbM9AAABx0lEQVR4AeyaMUrEQBSGN3sKCwuPIFYWskfQQgsLL2EjgicQC0GPYKuwHkERuy0ECy1EG48g2Gj83hJkhX2bzDTOH154PzOZl2Hf9/6wSZHhIOGo63qC5CIJkn7sI7lIgqyq6hbCayQVSZAN2WUzygw5kHcydE2hyZDcsm/NXpkhGVKGbKbQZEieHysz+yWmyZBQbSCpyIHckSKk2CRIbtURe7aQVCRBQnaK5KIzJC7am86aHCEFt0ICN0ITrt1EkjEEYIz20O+jwebI1sZQ3SBJB6l7Guak/ZFccPYK2DRsjmzNcky1wyC1CTpU3yNInzYg/d5oZcJJLb/8asNJvzdamXBSyy+/2nDS741WJpzU8suvNpz0e6OVCSe1/PKrDSf93vxfJueXw8mcrpW4J5ws0ZWcmsLJnK6VuCecLNGVnJrCyZyulbgnnCzRlZyawsmcrhWw55EaTpB9b7RccfTJyU/ADtEqXAfoCr1zPugL5AMwBncM2BfzP9EHyA+ItoF7ZpwbhULOrdVbPALwxUvaujrkPRDnaGGoQ57h4vdCQpLqkE8wtIY6ZKfv4dUhW120C9QhlwyiTeqQ622AlleH3DWINv0AAAD//0E1tPgAAAAGSURBVAMA5I8AhO/DpoUAAAAASUVORK5CYII="
+        }
+      ]
     }
   ]
 }
