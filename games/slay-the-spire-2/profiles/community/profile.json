@@ -1025,31 +1025,6 @@
       ]
     },
     {
-      "id": "claw",
-      "rotates": true,
-      "payloads": [
-        {
-          "title": "Claw",
-          "text": "",
-          "image": null,
-          "popupOffset": {
-            "x": 14,
-            "y": 22
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "claw-1777137440400.png",
-          "w": 99,
-          "h": 55,
-          "srcW": 1920,
-          "srcH": 1080,
-          "maskDataUrl": null
-        }
-      ]
-    },
-    {
       "id": "strike",
       "payloads": [
         {
