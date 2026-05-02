@@ -49,6 +49,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "potato",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Potato",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "potato-1777720694971.png",
+          "w": 93,
+          "h": 96,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
