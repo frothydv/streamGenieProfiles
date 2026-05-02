@@ -1345,6 +1345,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "soul",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Soul",
+          "text": "Draw 1 Card. Exhaust",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "soul-1777688707559.png",
+          "w": 102,
+          "h": 105,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
