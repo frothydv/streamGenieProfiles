@@ -24,6 +24,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "watering-can",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Watering Can",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -14,
+            "y": -65
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "watering-can-1777720658474.png",
+          "w": 105,
+          "h": 107,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
