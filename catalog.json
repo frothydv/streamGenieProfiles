@@ -78,6 +78,19 @@
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/punk/profiles/community/profile.json"
         }
       ]
+    },
+    {
+      "id": "starsector",
+      "name": "Starsector",
+      "twitchSlug": "starsector",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/starsector/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
