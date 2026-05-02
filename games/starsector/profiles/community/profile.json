@@ -1,3 +1,28 @@
 {
-  "triggers": []
+  "triggers": [
+    {
+      "id": "heavy-armor",
+      "payloads": [
+        {
+          "title": "Heavy Armor",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -32,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "heavy-armor-1777687934018.png",
+          "w": 41,
+          "h": 42,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    }
+  ]
 }
