@@ -1,3 +1,28 @@
 {
-  "triggers": []
+  "triggers": [
+    {
+      "id": "golden-hoe",
+      "payloads": [
+        {
+          "title": "Golden Hoe",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 5,
+            "y": -64
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "golden-hoe-1777689665579.png",
+          "w": 44,
+          "h": 44,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    }
+  ]
 }
