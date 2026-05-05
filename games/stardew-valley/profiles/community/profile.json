@@ -1,30 +1,6 @@
 {
   "triggers": [
     {
-      "id": "bus-stio",
-      "payloads": [
-        {
-          "title": "Bus Stio",
-          "text": "",
-          "image": null,
-          "popupOffset": {
-            "x": 2,
-            "y": -57
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "bus-stio-1777689875957.png",
-          "w": 63,
-          "h": 88,
-          "srcW": 1920,
-          "srcH": 1080,
-          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAABYCAYAAABCri89AAAC/0lEQVR4AeybDW7CMAyF6S627WRjJxs3Y34Fo1IldhqHkLqeavqTNPH3nlOqSXycDvwX8Ec1P5x/p/PX6/VrFWc65/ijYw46nLevVvk2dZ5S2wpyJZC/VfzQOQdAOejyvEEMXJtPLB9N4AkaTtWA1OYOcWrvfdxnhgc4jdYkGRqndEOFnUs75/qZ4N8Eziw/NL+p/KvhaWKs1d6OMzjvTfNXwd/BTapz9sa9qfw3wRM0JoPjI4CzbtXlXwwPcJptNHBKad6qvv6K4Bfg80yDfmxe/yo8geMrBY4PyvxIC0sSuT4uaAci/B18s6LapC9s37T+s/AZ8Bfm3WzoYrOy8M1S6T9Qcfln4adp2rR++jOKMxa5n4UXh3bSGPApI+mBN9JbXCpF8VpJ/uG8KKHjxnDesbkiWjgvyrPfRvXbSnJevXm/utwyl+BvPRx/Brxjc0W0VzsvTv7uRs/wn5q4nuE19pMEryqnjj54Bwl+8NTt6QW8XcN9juDZefX13DO8Wo4SvKqcOvrgHST4wVO3pxfwdg33OYJr57X/3buG1+ox4NcKaeWy7t/wvOtQ4XxXuQeazLvz4luqd3ixzgJelMdxY855ca140SMH74VP5PAOL/4H2jv8oZ0P+JwCUfYJZcQHRaL/Li95d158X9k7vKniAt4k39g3/0rpeXb+W/vBRA5efFBIag7SBvCLlksOXrtv1HYAF4EDwBP8hcq8GNwT/C/AAbQlks7TQBMNgiclgg6H3gBe9UuwJDxQSYDzPSDEN12DEAg6HGarBgdBFh6NHCQC1lNKDDxguFvvPdZ3leOcaBE8d+b9QgwkgMpARSB6iIE5MC/2nFLVvgp+PROJwVWBpJZirLtaz1GBmMMMjkSawGOgZSzEoMMJYuCZgUB1cGwFwPrGGMupTMcvgV9nNE0THENwhWAPB6npttE9AGNhsIc4CGo6Ady0vjHIOrrArydNnZMEKXFYoObgyGEYeCTTIZ6mCPgnOQ50Es4fyOwn1HD+SY4DnRza+X8AAAD//wQTwEoAAAAGSURBVAMAnHr4sXiRMFsAAAAASUVORK5CYII="
-        }
-      ]
-    },
-    {
       "id": "gold-hoe",
       "payloads": [
         {
