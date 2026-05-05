@@ -73,30 +73,6 @@
       ]
     },
     {
-      "id": "fishing-pole",
-      "payloads": [
-        {
-          "title": "Fishing Pole",
-          "text": "",
-          "image": null,
-          "popupOffset": {
-            "x": -6,
-            "y": -55
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "fishing-pole-1777690418418.png",
-          "w": 57,
-          "h": 65,
-          "srcW": 1920,
-          "srcH": 1080,
-          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAABBCAYAAABraQwpAAABd0lEQVR4AeyWsQ3CQBAEMZVQAzGiBEgIaYJKKIKUAEoAkVIDdGL2kEEkJ/Gnl/4WFt3JL7//vbtjYY9Hhb++769oqio2iUw2aKoqNtl13RkOj2iaKjY5ONsPR4pD1OSFwt0gMmQSj+x9WE9xCJmkcPYhMmQS74/Jxx7phyGTcDVD01TU5IrGIYQWm8SjOse6JZqmik3C2RZNVUUmQdG+dKZUDiF2DOH2+GHol12DvuKKBZqujOQJBg7oNfr9arAx2s4d4OqEpiMIzc8ykzawP5IdBjcYe5aN0XbO5jDkrZdJXgdfKP8hk75bmfSz4ZoRSS5evlqR9LPhmhFJLl6+WpH0s+GaEUkuXr5akfSz4ZoRSS5evlqR9LNpNxO5s0hGUsu4RiQzUoloEslIahnXiGRGKhFNIhlJLeMakcxIJaJJJCOpZVwjkhmpRDSJZCS1Omvq7iKSdfNst5tItsu+7p1Fsm6e7XYTyXbZ172zSNbNs91uf0HyAQAA//9UeoC9AAAABklEQVQDAFb4759ahXiOAAAAAElFTkSuQmCC"
-        }
-      ]
-    },
-    {
       "id": "rock",
       "payloads": [
         {
