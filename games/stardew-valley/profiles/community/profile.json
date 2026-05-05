@@ -25,30 +25,6 @@
       ]
     },
     {
-      "id": "gold-hoe",
-      "payloads": [
-        {
-          "title": "Gold Hoe",
-          "text": "",
-          "image": null,
-          "popupOffset": {
-            "x": -3,
-            "y": -62
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "gold-hoe-1777690296026.png",
-          "w": 60,
-          "h": 63,
-          "srcW": 1920,
-          "srcH": 1080,
-          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA/CAYAAAC8aKvcAAABjUlEQVR4AeyYMU7DQBRE16YAwSVo6BH0XAFRIiiQuAcX4AgUFPQoV6CgQCI1dNwCCQrM+5GRoOJ7KcJsJprROs5E+vNf46QfhmGzTHiRX8cPWFJ913WvE/oW8m/kz/A7llNfMzGln/jeBZZTVeGx5SXnPZZSdWEof9D0CkupuvDY8nk8ZQ4XnohqY2J+6fG/Et5deoOJA7hwdmE8ZsWyzrP5/5KLoWtnOeGLO1hKVYWhu0XLayynqsK0jAeONU45TS4M3VtaHmNJxc/DOSUOfpuezD6ekzvCsgrCe0x/R5kZPsXbvF8ornHcm3HjEUeWQ1YlCn9Nf8jFDX6h5EJxjeNefMalvr4X1m+TaODCiSVJR0xYGl9ieBNOLEk6YsLS+BLDm3BiSdIRE5bGlxjehBNLko6sGOHy4w8AaXLZ4U04uynVnAmrksvObcLZTanmTFiVXHZuE85uSjVnwqrksnObcHZTqjkTViWXmpuQCbOEpmXCTeOlnAmzhKZlwk3jpZwJs4SmZcJN4y2lfAIAAP//JJmMKAAAAAZJREFUAwC4YgeefQE60QAAAABJRU5ErkJggg=="
-        }
-      ]
-    },
-    {
       "id": "sweet-pea",
       "payloads": [
         {
