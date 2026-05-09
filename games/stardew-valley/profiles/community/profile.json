@@ -143,6 +143,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "pomegranate",
+      "payloads": [
+        {
+          "title": "Pomegranate",
+          "text": "The Pomegranate is a fruit grown by planting a Pomegranate Sapling, waiting 28 days for it to grow into a Pomegranate Tree, and harvesting the tree during the Fall.",
+          "image": null,
+          "popupOffset": {
+            "x": 34,
+            "y": -14
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "pomegranate-1778360263145.png",
+          "w": 60,
+          "h": 63,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA/CAYAAAC8aKvcAAAB10lEQVR4AeyasUrEQBCGL2cjWFsr2NgIYmMj9whqYSMIVvZaW/oAor6Bthb6CIrYXSFY2J1YWNkKVsZvlkQODnGCW+yME/4/G8ImzDf/XnIc1+8ptrquh9iFVMD05AC7kAq4qqpbaK+xeamAG8rLZjQ9dAG+M03aFK8GZlk/N9eYHtTApinHilcD806aH7vO7KEaGMI1bF5dgLfM0wKgAmY5D5i7gc1LBQzlMXahX4FJV75hrbigBeJHYEAHeMicdexGfaC+XzdyjHfwFYQ32E2ysCRJwiMAkzgzwhfYxQMKjgkJ8MRJxyd6Aew5XWGLhKULnh0Je05X2CJh6YJnR8Ke0xW2SFi64NmRsOd0hS0Sli549j9LuBc/AHhezYktlnRqg+NdJOw43IQWCac2ON5Fwo7DTWiRcGqD410k7DjchGYt4Ueq3sWzeKrqsMl8PGcF+INi9+Fbwuf4DX9yTi2Zj18sAD9AtUCxJ4x/E1eXDvxOjZvAvjJmUenAh8Bm/dtyycD3RHqGs6pk4FPS7fRg0nSmZOAnDUDXOSUDZ/3sto0pGXi6LTLnWDLwck7Q9l4lAy+2ReYcSwberus6e33Zb5gxjVXutYezqmRgAT0i5Rk5yOUvAAAA//+p7sZdAAAABklEQVQDALy4FOHTKDBfAAAAAElFTkSuQmCC"
+        }
+      ]
     }
   ]
 }
