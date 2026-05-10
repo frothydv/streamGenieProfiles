@@ -191,6 +191,30 @@
           "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAvCAYAAACYECivAAAFeklEQVR4AayZv6pdVRDG175EtPABrCxUsJOAiEEE01jYJEWw08JnCIriI2gabexjpymSysIiFkoaC8FCkYjY+QABIeFuf9+sWX/3OvtP4mFmzcw338z+zron92hyNvM6dyfMs4o5vnJ6nrPYqM+VVk37v/KzwGtyD3NKiJhwQghTzsLitdIyrnZa8iRHWjIHE5xXbT08E7eS9AB4trOqgU5ZYZUscm0J6VQEt5S2Ct1rvStyeoDybU/7ylTJmmmI+YYTBcw4fTTQj8T10kLiW7E4RhOFpO76vHMhZsEOBTDSKUa2TFR7rOEx18z0ddOMRTMfoeHpgk9s3LulX93P9XXP98fP9qe+b1Lnfkif4Ql0r/n0Xvoenj9+ij/XZsKeNkVIwW84AtaM6cqpsVDuohuKZTyHS6zFgaV+lSYox/i0XKYbjkDfjOj4zNyciDf7HTWgGsWtxYGld620EEo2lzRnzQ1HVDR5rNrzFJ5Ypx6d+jHmLUbPVWzmc+bNz1RyglsRbLgObZE7owmn8JqkHXW9zNstsVpOCY9e94pg9XhPtr5mGLB+GJ0Dg2iLiG4R9KINdauZqhuM1D0Ep26KkVFVANFGmDqTPoxsxVS2PvmUgrzqNvy61zSqAVIEp26KoFhbAWDC6r1Abup4qtCQ6KkmpB+gKNnVU6G+4oYj+BQjbWr7u/YmUlrR1/XK1KuxlXxF8MFNo4c0K1Df1PUAPZUETFnjNbYiuKaV+TFa+jEbsU6qZUQ9ZggYdWs1tiK4psUFrBx+DGO3PpezdVe5dikW354R1wUvx9Xs0byyb4i84f1I3pXmegL4AEpfzYtx6KHcZjVp6ZgeFi8jC53LLpUj37kz3vBcNlQpoFfVsiqlv2FG1g5LNsjwMCN5TL/CDfMjCmafc/wm2sq5jxlYvmsSHmZPHin1HSZYJLgGKQ9hCqF/xUZGuzLjT5pEHTp5gkK30AQbTl89y5VUbi1vWE7PSzJZQsmrlMptCHrvVGifkFgm2Ipxn9bsHxNSbEyL6Ey/Ias2j31Ldx22acgsgoftY2Ar68RDT8Dtk9pN1vM5E+y54ctjMLwkgfRb7L/hwDvbu64bS6UJHuy4A+F9/EX8KXflwtSr/qeOrtlyiyHd++hKmxwsc7wKtiykL47c+Jns8jRNV/Gv8T/xR+7KhV0Vh8+quKTRxkLoTXhldVlmarQiD1K7Ycd1c5cQ94PXJ4NzLkHQDCGgP+RXEZKhYZJkVvxfIX6Ov4s/hz+Lv4S/jX+H5xvWbV1DyCOBe9y51+BqllAsCSkIWaWKqhg4/H8BPsJfYe+H+Lf4P/gD/D7+Pf4O/TfTDV8H2C2WQTOfuW7F1oGqmoLOWE7hF5KL7PoMzzDYwuj/KMF3SDY/BotpB3w2fzQcXoReiet/AFE/2d+Ju0yCv9nFXCf5jl5WGXKBBYjZp7zh+zHdd0rwT/uoq6zhjiQ/xfzrS8AcNPPl6tZBU4L/HuBHId/R3mOqUpyDsjlYmMIX3O55OPiS4IMjO+no6pnxu0+irfObnQcPCX7+4MyIvtyRddV0gfmd/FV39uYS/MZe8gpvsSPLWgxJtIHP2HnwkGB9qxwcW9AXO7KsBTUDF3N2IJHgK/yj31sHZhqqz145faP5d0MzR/GYguOTbvDgCyw5ZD5zQ0NrN3qi9wHzT2v2iJ/Zr5gQXmXoFgt2i3buLeY0S1i3eC8N52Wqj/FDdlaxr5DfQ8jmx0McBNyDrxnCto1umR2fsEvCtxc4oxYsSLd1lyW38ffwF/AL7sqF3YZ4FwHi6m+GKY8YMp3ODn0kvvJyV+gFpyHd3E0Kfc8/5BEPPb8ZQlCPMv5h4qGWDw8Gl/hi4jIX8gf++pLbInBe+w8AAP//U2u53QAAAAZJREFUAwAgsdsl+wSY5AAAAABJRU5ErkJggg=="
         }
       ]
+    },
+    {
+      "id": "seaweed",
+      "payloads": [
+        {
+          "title": "Seaweed",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 14,
+            "y": 22
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "seaweed-1778454453880.png",
+          "w": 48,
+          "h": 47,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
