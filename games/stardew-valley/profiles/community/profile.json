@@ -149,30 +149,6 @@
       "payloads": [
         {
           "title": "Spicy Eel",
-          "text": "Ingredients\t\nEel.png Eel (1)\nHot Pepper.png Hot Pepper (1)",
-          "image": null,
-          "popupOffset": {
-            "x": 5,
-            "y": -115
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "spicy-eel-1778360689808.png",
-          "w": 60,
-          "h": 67,
-          "srcW": 1920,
-          "srcH": 1080,
-          "maskDataUrl": null
-        }
-      ]
-    },
-    {
-      "id": "spicy-eel",
-      "payloads": [
-        {
-          "title": "Spicy Eel",
           "text": "Ingredients\t\nEel (1)\nHot Pepper (1)",
           "image": null,
           "popupOffset": {
