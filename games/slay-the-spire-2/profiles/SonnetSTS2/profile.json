@@ -1,0 +1,2118 @@
+{
+  "triggers": [
+    {
+      "id": "map-legend-unknown-node",
+      "payloads": [
+        {
+          "title": "Map Legend - Unknown node",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "map-legend-unknown-node-0.png",
+          "w": 55,
+          "h": 55,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "map-legend-merchant-node",
+      "payloads": [
+        {
+          "title": "Map Legend - Merchant node",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "map-legend-merchant-node-0.png",
+          "w": 55,
+          "h": 55,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "map-legend-treasure-node",
+      "payloads": [
+        {
+          "title": "Map Legend - Treasure node",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "map-legend-treasure-node-0.png",
+          "w": 55,
+          "h": 55,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "map-legend-rest-node",
+      "payloads": [
+        {
+          "title": "Map Legend - Rest node",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "map-legend-rest-node-0.png",
+          "w": 55,
+          "h": 55,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "map-legend-enemy-node",
+      "payloads": [
+        {
+          "title": "Map Legend - Enemy node",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "map-legend-enemy-node-0.png",
+          "w": 55,
+          "h": 55,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "map-legend-elite-node",
+      "payloads": [
+        {
+          "title": "Map Legend - Elite node",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "map-legend-elite-node-0.png",
+          "w": 55,
+          "h": 55,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "map-node-camp-start",
+      "payloads": [
+        {
+          "title": "Map node - camp/start",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "map-node-camp-start-0.png",
+          "w": 83,
+          "h": 83,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "deck-button",
+      "payloads": [
+        {
+          "title": "Deck button",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "deck-button-0.png",
+          "w": 63,
+          "h": 63,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "relic-button",
+      "payloads": [
+        {
+          "title": "Relic button",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "relic-button-0.png",
+          "w": 63,
+          "h": 63,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "map-settings-button",
+      "payloads": [
+        {
+          "title": "Map settings button",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "map-settings-button-0.png",
+          "w": 63,
+          "h": 63,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "energy-counter",
+      "payloads": [
+        {
+          "title": "Energy counter",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "energy-counter-0.png",
+          "w": 99,
+          "h": 104,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "end-turn-button",
+      "payloads": [
+        {
+          "title": "End Turn button",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "end-turn-button-0.png",
+          "w": 249,
+          "h": 92,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "card-reward-left-card",
+      "payloads": [
+        {
+          "title": "Card reward - left card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "card-reward-left-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "card-reward-middle-card",
+      "payloads": [
+        {
+          "title": "Card reward - middle card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "card-reward-middle-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "card-reward-right-card",
+      "payloads": [
+        {
+          "title": "Card reward - right card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "card-reward-right-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        },
+        {
+          "file": "card-reward-right-card-1.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "burning-blood-relic",
+      "payloads": [
+        {
+          "title": "Burning Blood relic",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "burning-blood-relic-0.png",
+          "w": 47,
+          "h": 50,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "breakthrough-card",
+      "payloads": [
+        {
+          "title": "Breakthrough card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "breakthrough-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "inferno-card",
+      "payloads": [
+        {
+          "title": "Inferno card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "inferno-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "imprint-card",
+      "payloads": [
+        {
+          "title": "Imprint card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "imprint-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "byrdonis-nest-event-illustration",
+      "payloads": [
+        {
+          "title": "Byrdonis Nest event illustration",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "byrdonis-nest-event-illustration-0.png",
+          "w": 592,
+          "h": 543,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "card-reward-ice-wave-card",
+      "payloads": [
+        {
+          "title": "Card reward - ice wave card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "card-reward-ice-wave-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "card-reward-attack-card-center",
+      "payloads": [
+        {
+          "title": "Card reward - attack card center",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "card-reward-attack-card-center-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "slicer-card",
+      "payloads": [
+        {
+          "title": "Slicer card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "slicer-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "strike-card",
+      "payloads": [
+        {
+          "title": "Strike card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "strike-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "byrd-swoop-card",
+      "payloads": [
+        {
+          "title": "Byrd Swoop card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "byrd-swoop-card-0.png",
+          "w": 340,
+          "h": 417,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "byrdonis-enemy",
+      "payloads": [
+        {
+          "title": "Byrdonis enemy",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "byrdonis-enemy-0.png",
+          "w": 543,
+          "h": 592,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "card-reward-left-attack-card",
+      "payloads": [
+        {
+          "title": "Card reward - left attack card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "card-reward-left-attack-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "pyre-card",
+      "payloads": [
+        {
+          "title": "Pyre card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "pyre-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "sapphire-seed-event-illustration",
+      "payloads": [
+        {
+          "title": "Sapphire Seed event illustration",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "sapphire-seed-event-illustration-0.png",
+          "w": 1320,
+          "h": 640,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "inklet-enemy",
+      "payloads": [
+        {
+          "title": "Inklet enemy",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "inklet-enemy-0.png",
+          "w": 132,
+          "h": 175,
+          "srcW": 1920,
+          "srcH": 1080
+        },
+        {
+          "file": "inklet-enemy-1.png",
+          "w": 132,
+          "h": 175,
+          "srcW": 1920,
+          "srcH": 1080
+        },
+        {
+          "file": "inklet-enemy-2.png",
+          "w": 132,
+          "h": 175,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "shorty-card",
+      "payloads": [
+        {
+          "title": "Shorty card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "shorty-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "corpse-field-card",
+      "payloads": [
+        {
+          "title": "Corpse Field card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "corpse-field-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "overhand-card",
+      "payloads": [
+        {
+          "title": "Overhand card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "overhand-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "what-s-inside-event-box",
+      "payloads": [
+        {
+          "title": "What's Inside event box",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "what-s-inside-event-box-0.png",
+          "w": 720,
+          "h": 769,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "gorget-relic-tooltip",
+      "payloads": [
+        {
+          "title": "Gorget relic tooltip",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "gorget-relic-tooltip-0.png",
+          "w": 457,
+          "h": 114,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "mawler-enemy",
+      "payloads": [
+        {
+          "title": "Mawler enemy",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "mawler-enemy-0.png",
+          "w": 549,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "shop-card-1",
+      "payloads": [
+        {
+          "title": "Shop card 1",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "shop-card-1-0.png",
+          "w": 279,
+          "h": 377,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "shop-card-2",
+      "payloads": [
+        {
+          "title": "Shop card 2",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "shop-card-2-0.png",
+          "w": 279,
+          "h": 377,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "shop-card-3",
+      "payloads": [
+        {
+          "title": "Shop card 3",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "shop-card-3-0.png",
+          "w": 279,
+          "h": 377,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "shop-card-4",
+      "payloads": [
+        {
+          "title": "Shop card 4",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "shop-card-4-0.png",
+          "w": 279,
+          "h": 377,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "shop-card-5",
+      "payloads": [
+        {
+          "title": "Shop card 5",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "shop-card-5-0.png",
+          "w": 279,
+          "h": 377,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "shop-card-6",
+      "payloads": [
+        {
+          "title": "Shop card 6",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "shop-card-6-0.png",
+          "w": 279,
+          "h": 377,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "shop-card-7",
+      "payloads": [
+        {
+          "title": "Shop card 7",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "shop-card-7-0.png",
+          "w": 279,
+          "h": 377,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "shop-relic-item-1",
+      "payloads": [
+        {
+          "title": "Shop relic item 1",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "shop-relic-item-1-0.png",
+          "w": 138,
+          "h": 138,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "shop-relic-item-2",
+      "payloads": [
+        {
+          "title": "Shop relic item 2",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "shop-relic-item-2-0.png",
+          "w": 138,
+          "h": 138,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "knight-enemy",
+      "payloads": [
+        {
+          "title": "Knight enemy",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "knight-enemy-0.png",
+          "w": 261,
+          "h": 530,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "wolf-beast-enemy",
+      "payloads": [
+        {
+          "title": "Wolf beast enemy",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "wolf-beast-enemy-0.png",
+          "w": 377,
+          "h": 457,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "rattle-bones-card",
+      "payloads": [
+        {
+          "title": "Rattle Bones card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "rattle-bones-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "intercept-card",
+      "payloads": [
+        {
+          "title": "Intercept card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "intercept-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "flyover-card",
+      "payloads": [
+        {
+          "title": "Flyover card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "flyover-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "gold-bloom-enemy",
+      "payloads": [
+        {
+          "title": "Gold Bloom enemy",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "gold-bloom-enemy-0.png",
+          "w": 665,
+          "h": 616,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "wriggler-enemy",
+      "payloads": [
+        {
+          "title": "Wriggler enemy",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "wriggler-enemy-0.png",
+          "w": 163,
+          "h": 187,
+          "srcW": 1920,
+          "srcH": 1080
+        },
+        {
+          "file": "wriggler-enemy-1.png",
+          "w": 163,
+          "h": 187,
+          "srcW": 1920,
+          "srcH": 1080
+        },
+        {
+          "file": "wriggler-enemy-2.png",
+          "w": 163,
+          "h": 187,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "rest-option-button",
+      "payloads": [
+        {
+          "title": "Rest option button",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "rest-option-button-0.png",
+          "w": 365,
+          "h": 279,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "smith-option-button",
+      "payloads": [
+        {
+          "title": "Smith option button",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "smith-option-button-0.png",
+          "w": 365,
+          "h": 279,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "pommel-strike-card",
+      "payloads": [
+        {
+          "title": "Pommel Strike card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "pommel-strike-card-0.png",
+          "w": 359,
+          "h": 469,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "pommel-strike-upgraded-card",
+      "payloads": [
+        {
+          "title": "Pommel Strike+ upgraded card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "pommel-strike-upgraded-card-0.png",
+          "w": 359,
+          "h": 469,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "dark-elite-enemy",
+      "payloads": [
+        {
+          "title": "Dark elite enemy",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "dark-elite-enemy-0.png",
+          "w": 714,
+          "h": 702,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "infernal-form-card",
+      "payloads": [
+        {
+          "title": "Infernal Form card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "infernal-form-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "demonic-form-card",
+      "payloads": [
+        {
+          "title": "Demonic Form card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "demonic-form-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "thrash-card",
+      "payloads": [
+        {
+          "title": "Thrash card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "thrash-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "pael-ancient-dragon-illustration",
+      "payloads": [
+        {
+          "title": "Pael ancient dragon illustration",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "pael-ancient-dragon-illustration-0.png",
+          "w": 1424,
+          "h": 849,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "pael-s-horn-option",
+      "payloads": [
+        {
+          "title": "Pael's Horn option",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "pael-s-horn-option-0.png",
+          "w": 1302,
+          "h": 87,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "pael-s-tooth-option",
+      "payloads": [
+        {
+          "title": "Pael's Tooth option",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "pael-s-tooth-option-0.png",
+          "w": 1302,
+          "h": 87,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "pael-s-blood-option",
+      "payloads": [
+        {
+          "title": "Pael's Blood option",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "pael-s-blood-option-0.png",
+          "w": 1302,
+          "h": 87,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "thieving-hopper-enemy",
+      "payloads": [
+        {
+          "title": "Thieving Hopper enemy",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "thieving-hopper-enemy-0.png",
+          "w": 292,
+          "h": 359,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "loot-screen-take-stolen-card-option",
+      "payloads": [
+        {
+          "title": "Loot screen - Take stolen card option",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "loot-screen-take-stolen-card-option-0.png",
+          "w": 751,
+          "h": 89,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "loot-screen-add-card-to-deck-option",
+      "payloads": [
+        {
+          "title": "Loot screen - Add card to deck option",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "loot-screen-add-card-to-deck-option-0.png",
+          "w": 751,
+          "h": 89,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "blood-strike-card",
+      "payloads": [
+        {
+          "title": "Blood Strike card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "blood-strike-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "whirlwind-card",
+      "payloads": [
+        {
+          "title": "Whirlwind card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "whirlwind-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "ferrule-card",
+      "payloads": [
+        {
+          "title": "Ferrule card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "ferrule-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "pink-creature-enemy",
+      "payloads": [
+        {
+          "title": "Pink creature enemy",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "pink-creature-enemy-0.png",
+          "w": 187,
+          "h": 230,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "blue-armored-enemy",
+      "payloads": [
+        {
+          "title": "Blue armored enemy",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "blue-armored-enemy-0.png",
+          "w": 187,
+          "h": 224,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "infested-prism-enemy",
+      "payloads": [
+        {
+          "title": "Infested Prism enemy",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "infested-prism-enemy-0.png",
+          "w": 579,
+          "h": 567,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "rampage-card",
+      "payloads": [
+        {
+          "title": "Rampage card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "rampage-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "aoe-vulnerable-card",
+      "payloads": [
+        {
+          "title": "AOE vulnerable card",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "aoe-vulnerable-card-0.png",
+          "w": 389,
+          "h": 494,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "treasure-chest-stump-event-illustration",
+      "payloads": [
+        {
+          "title": "Treasure chest stump event illustration",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "treasure-chest-stump-event-illustration-0.png",
+          "w": 1253,
+          "h": 898,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "corrupted-relic-tooltip",
+      "payloads": [
+        {
+          "title": "Corrupted relic tooltip",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "corrupted-relic-tooltip-0.png",
+          "w": 298,
+          "h": 138,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    }
+  ]
+}
