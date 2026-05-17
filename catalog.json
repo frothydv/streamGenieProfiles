@@ -24,6 +24,12 @@
           "name": "TheCoolestProfie",
           "verified": false,
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/thecoolestprofie/profile.json"
+        },
+        {
+          "id": "SonnetSTS2",
+          "name": "SonnetSTS2 (AI)",
+          "verified": false,
+          "url": "https://raw.githubusercontent.com/frothydv/streamGenieProfiles/ai/slay-the-spire-2-SonnetSTS2-2026-05-17/games/slay-the-spire-2/profiles/SonnetSTS2/profile.json"
         }
       ]
     },
