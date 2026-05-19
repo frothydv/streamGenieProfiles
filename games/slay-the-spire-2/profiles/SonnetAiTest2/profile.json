@@ -1,0 +1,214 @@
+{
+  "triggers": [
+    {
+      "id": "ironclad",
+      "payloads": [
+        {
+          "title": "Ironclad",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "ironclad-0.png",
+          "w": 554,
+          "h": 102,
+          "srcW": 1920,
+          "srcH": 1080
+        },
+        {
+          "file": "ironclad-1.png",
+          "w": 285,
+          "h": 59,
+          "srcW": 1920,
+          "srcH": 1080
+        },
+        {
+          "file": "ironclad-2.png",
+          "w": 861,
+          "h": 70,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "overgrowth",
+      "payloads": [
+        {
+          "title": "Overgrowth",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "overgrowth-0.png",
+          "w": 592,
+          "h": 146,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "pael",
+      "payloads": [
+        {
+          "title": "Pael",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "pael-0.png",
+          "w": 400,
+          "h": 124,
+          "srcW": 1920,
+          "srcH": 1080
+        },
+        {
+          "file": "pael-1.png",
+          "w": 400,
+          "h": 124,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "vakuu",
+      "payloads": [
+        {
+          "title": "Vakuu",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "vakuu-0.png",
+          "w": 361,
+          "h": 102,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "silent",
+      "payloads": [
+        {
+          "title": "Silent",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "silent-0.png",
+          "w": 976,
+          "h": 81,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "timeline",
+      "payloads": [
+        {
+          "title": "Timeline",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "timeline-0.png",
+          "w": 477,
+          "h": 59,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    },
+    {
+      "id": "compendium",
+      "payloads": [
+        {
+          "title": "Compendium",
+          "text": "",
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          },
+          "image": null
+        }
+      ],
+      "references": [
+        {
+          "file": "compendium-0.png",
+          "w": 515,
+          "h": 59,
+          "srcW": 1920,
+          "srcH": 1080
+        }
+      ],
+      "rotation": {
+        "mode": "orthogonal"
+      },
+      "rotates": false
+    }
+  ]
+}
