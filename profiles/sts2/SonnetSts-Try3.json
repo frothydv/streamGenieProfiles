@@ -1,0 +1,28 @@
+{
+  "triggers": [
+    {
+      "id": "sts2-relic-strawberry",
+      "name": "Strawberry",
+      "description": "Gain 7 Max HP.",
+      "references": [{"file": "strawberry.png"}]
+    },
+    {
+      "id": "sts2-card-setup-strike",
+      "name": "Setup Strike",
+      "description": "Deal 7 damage. Gain 2 Strength this turn.",
+      "references": [{"file": "setup-strike.png"}]
+    },
+    {
+      "id": "sts2-card-dismantle",
+      "name": "Dismantle",
+      "description": "Deal 8 damage. If the enemy is Vulnerable, hits twice.",
+      "references": [{"file": "dismantle.png"}]
+    },
+    {
+      "id": "sts2-relic-byrdonis-egg",
+      "name": "Byrdonis Egg",
+      "description": "Add Byrdonis Egg to your deck.",
+      "references": [{"file": "byrdonis-egg.png"}]
+    }
+  ]
+}
