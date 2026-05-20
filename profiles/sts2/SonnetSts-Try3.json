@@ -4,25 +4,46 @@
       "id": "sts2-relic-strawberry",
       "name": "Strawberry",
       "description": "Gain 7 Max HP.",
-      "references": [{"file": "strawberry.png"}]
+      "references": [{
+        "file": "strawberry.png",
+        "hash": [0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0]
+      }]
     },
     {
       "id": "sts2-card-setup-strike",
       "name": "Setup Strike",
       "description": "Deal 7 damage. Gain 2 Strength this turn.",
-      "references": [{"file": "setup-strike.png"}]
-    },
-    {
-      "id": "sts2-card-dismantle",
-      "name": "Dismantle",
-      "description": "Deal 8 damage. If the enemy is Vulnerable, hits twice.",
-      "references": [{"file": "dismantle.png"}]
+      "references": [{
+        "file": "setup-strike.png",
+        "hash": [1,0,0,1,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,1,1,1,0,1,0,0,1,1,1,1,1,1,0,0,0,1,0,0,1,0,0,1,0]
+      }]
     },
     {
       "id": "sts2-relic-byrdonis-egg",
       "name": "Byrdonis Egg",
       "description": "Add Byrdonis Egg to your deck.",
-      "references": [{"file": "byrdonis-egg.png"}]
+      "references": [{
+        "file": "byrdonis-egg.png",
+        "hash": [1,1,1,0,1,0,0,0,1,1,1,1,0,0,1,0,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+      }]
+    },
+    {
+      "id": "sts2-relic-burning-blood",
+      "name": "Burning Blood",
+      "description": "At the end of combat, heal 6 HP.",
+      "references": [{
+        "file": "burning-blood.png",
+        "hash": [0,1,0,0,0,1,0,0,1,1,0,1,0,0,1,0,1,0,1,1,0,0,1,0,0,1,1,1,0,0,0,1,0,1,1,0,0,0,0,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,0]
+      }]
+    },
+    {
+      "id": "sts2-relic-paels-horn",
+      "name": "Pael Horn",
+      "description": "Boss Relic: Add 2 Relax to your Deck.",
+      "references": [{
+        "file": "paels-horn.png",
+        "hash": [0,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1,0,1,0,1,0,0,1,1,0,1,1,1,0,0,0,1,0,1,0,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1,1,0,0]
+      }]
     }
   ]
 }
