@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "1",
+  "game": {
+    "id": "slay-the-spire-2",
+    "name": "Slay the Spire 2"
+  },
+  "id": "test-vision",
+  "name": "Test Vision Profile",
+  "description": "Test profile generated from ai-populate vision pass. Validates fractional coordinate crops.",
+  "version": "0.1.0",
+  "triggers": [
+    {
+      "id": "map-button",
+      "payloads": [
+        {
+          "title": "Map",
+          "text": "Click to view the act map.",
+          "image": null,
+          "popupOffset": {
+            "x": -28,
+            "y": 30
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "map-button.png",
+          "w": 76,
+          "h": 76,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "strike",
+      "payloads": [
+        {
+          "title": "Strike",
+          "text": "Attack. Deal 6 damage.",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "strike.png",
+          "w": 246,
+          "h": 340,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "speedster",
+      "payloads": [
+        {
+          "title": "Speedster",
+          "text": "Power. Whenever you draw a card during your turn, deal 2 damage to ALL enemies.",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "speedster.png",
+          "w": 304,
+          "h": 448,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "anticipate",
+      "payloads": [
+        {
+          "title": "Anticipate",
+          "text": "Skill. Gain 2 Dexterity this turn.",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "anticipate.png",
+          "w": 304,
+          "h": 448,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    }
+  ]
+}
