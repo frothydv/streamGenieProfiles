@@ -1,0 +1,613 @@
+{
+  "schemaVersion": "1",
+  "game": {
+    "id": "slay-the-spire-2",
+    "name": "Slay the Spire 2"
+  },
+  "id": "test-vision",
+  "name": "Test Vision Profile",
+  "description": "Test profile from ai-populate vision pass. 25 validated triggers.",
+  "version": "0.1.0",
+  "triggers": [
+    {
+      "id": "cloak-and-dagger",
+      "payloads": [
+        {
+          "title": "Cloak and Dagger",
+          "text": "Cloak and Dagger",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "cloak-and-dagger.png",
+          "w": 304,
+          "h": 448,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "deadly-poison",
+      "payloads": [
+        {
+          "title": "Deadly Poison",
+          "text": "Deadly Poison",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "deadly-poison.png",
+          "w": 304,
+          "h": 448,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "flechettes",
+      "payloads": [
+        {
+          "title": "Flechettes",
+          "text": "Flechettes",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "flechettes.png",
+          "w": 304,
+          "h": 448,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "strike",
+      "payloads": [
+        {
+          "title": "Strike",
+          "text": "Strike",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "strike.png",
+          "w": 246,
+          "h": 340,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "defend",
+      "payloads": [
+        {
+          "title": "Defend",
+          "text": "Defend",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "defend.png",
+          "w": 246,
+          "h": 340,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "prepared",
+      "payloads": [
+        {
+          "title": "Prepared",
+          "text": "Prepared",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "prepared.png",
+          "w": 304,
+          "h": 448,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "speedster",
+      "payloads": [
+        {
+          "title": "Speedster",
+          "text": "Speedster",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "speedster.png",
+          "w": 304,
+          "h": 448,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "infinite-blades",
+      "payloads": [
+        {
+          "title": "Infinite Blades",
+          "text": "Infinite Blades",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "infinite-blades.png",
+          "w": 304,
+          "h": 448,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sucker-punch",
+      "payloads": [
+        {
+          "title": "Sucker Punch",
+          "text": "Sucker Punch",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "sucker-punch.png",
+          "w": 304,
+          "h": 448,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "follow-through",
+      "payloads": [
+        {
+          "title": "Follow Through",
+          "text": "Follow Through",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "follow-through.png",
+          "w": 304,
+          "h": 448,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "tracking-",
+      "payloads": [
+        {
+          "title": "Tracking+",
+          "text": "Tracking+",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "tracking-.png",
+          "w": 362,
+          "h": 470,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "infinite-blades-",
+      "payloads": [
+        {
+          "title": "Infinite Blades+",
+          "text": "Infinite Blades+",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "infinite-blades-.png",
+          "w": 362,
+          "h": 470,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "neutralize",
+      "payloads": [
+        {
+          "title": "Neutralize",
+          "text": "Neutralize",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "neutralize.png",
+          "w": 246,
+          "h": 286,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "survivor",
+      "payloads": [
+        {
+          "title": "Survivor",
+          "text": "Survivor",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "survivor.png",
+          "w": 246,
+          "h": 286,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "fan-of-knives",
+      "payloads": [
+        {
+          "title": "Fan of Knives",
+          "text": "Fan of Knives",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "fan-of-knives.png",
+          "w": 246,
+          "h": 286,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "leading-strike",
+      "payloads": [
+        {
+          "title": "Leading Strike",
+          "text": "Leading Strike",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "leading-strike.png",
+          "w": 246,
+          "h": 286,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "finesse",
+      "payloads": [
+        {
+          "title": "Finesse",
+          "text": "Finesse",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "finesse.png",
+          "w": 304,
+          "h": 362,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "hidden-daggers",
+      "payloads": [
+        {
+          "title": "Hidden Daggers",
+          "text": "Hidden Daggers",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "hidden-daggers.png",
+          "w": 304,
+          "h": 362,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "phantom-blades",
+      "payloads": [
+        {
+          "title": "Phantom Blades",
+          "text": "Phantom Blades",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "phantom-blades.png",
+          "w": 304,
+          "h": 362,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "looming-fruit",
+      "payloads": [
+        {
+          "title": "Looming Fruit",
+          "text": "Looming Fruit",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "looming-fruit.png",
+          "w": 976,
+          "h": 102,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "brilliant-scar",
+      "payloads": [
+        {
+          "title": "Brilliant Scar",
+          "text": "Brilliant Scar",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "brilliant-scar.png",
+          "w": 976,
+          "h": 102,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "for-coal",
+      "payloads": [
+        {
+          "title": "For Coal",
+          "text": "For Coal",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "for-coal.png",
+          "w": 976,
+          "h": 94,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "untouchable-",
+      "payloads": [
+        {
+          "title": "Untouchable+",
+          "text": "Untouchable+",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "untouchable-.png",
+          "w": 304,
+          "h": 448,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "anticipate",
+      "payloads": [
+        {
+          "title": "Anticipate",
+          "text": "Anticipate",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "anticipate.png",
+          "w": 304,
+          "h": 448,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "map-button",
+      "payloads": [
+        {
+          "title": "Map",
+          "text": "Map",
+          "image": null,
+          "popupOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "map-button.png",
+          "w": 76,
+          "h": 76,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    }
+  ]
+}
