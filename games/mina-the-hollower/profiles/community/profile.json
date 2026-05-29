@@ -71,6 +71,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "spark",
+      "payloads": [
+        {
+          "title": "Spark",
+          "text": "Like \"Lives\"",
+          "image": null,
+          "popupOffset": {
+            "x": 10,
+            "y": -19
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "spark-1780087337524.png",
+          "w": 48,
+          "h": 39,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
