@@ -95,6 +95,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "keys",
+      "payloads": [
+        {
+          "title": "Keys",
+          "text": "The Player's Keys",
+          "image": null,
+          "popupOffset": {
+            "x": 22,
+            "y": -75
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "keys-1780087391857.png",
+          "w": 45,
+          "h": 54,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
