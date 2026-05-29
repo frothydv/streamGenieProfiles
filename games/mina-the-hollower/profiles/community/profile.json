@@ -47,6 +47,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "bones",
+      "payloads": [
+        {
+          "title": "Bones",
+          "text": "Player XP and Currency",
+          "image": null,
+          "popupOffset": {
+            "x": 30,
+            "y": -79
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "bones-1780087297396.png",
+          "w": 63,
+          "h": 58,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
