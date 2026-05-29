@@ -119,6 +119,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "level-up-threshold",
+      "payloads": [
+        {
+          "title": "Level Up Threshold",
+          "text": "Amount needed to level up!",
+          "image": null,
+          "popupOffset": {
+            "x": 30,
+            "y": -76
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "level-up-threshold-1780087434228.png",
+          "w": 60,
+          "h": 55,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
