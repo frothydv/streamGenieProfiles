@@ -23,6 +23,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "skulls",
+      "payloads": [
+        {
+          "title": "Skulls",
+          "text": "Player Currency",
+          "image": null,
+          "popupOffset": {
+            "x": 20,
+            "y": -3
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "skulls-1780086987517.png",
+          "w": 63,
+          "h": 58,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
