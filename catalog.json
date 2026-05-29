@@ -149,6 +149,19 @@
           "triggerCount": 1
         }
       ]
+    },
+    {
+      "id": "mina-the-hollower",
+      "name": "Mina the Hollower",
+      "twitchSlug": "mina-the-hollower",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/mina-the-hollower/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
