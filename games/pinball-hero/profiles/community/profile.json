@@ -1,3 +1,28 @@
 {
-  "triggers": []
+  "triggers": [
+    {
+      "id": "english-language",
+      "payloads": [
+        {
+          "title": "English Language",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -24,
+            "y": -17
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "english-language-1780340642636.png",
+          "w": 84,
+          "h": 68,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABECAYAAAAfvRJaAAAEKElEQVR4Aeycy29MURzHOyReC8+oxKo2iMdSSEiURGLhuZfWTihNY6MkRLxi69WoSFSsxIIEiVgICUnjD9AVXeiGIlakQcbn19zbx43pjDm/373ndI58v86d1+/xmXPPPTOqM5riH1UCEagqzqamCHS6Ay2Xyy24Hd/Bg3gAX8IbcEm5f/Vwhc9QIE0CSIeDuA8fxC14NT6J3+Ihnn8D78Azue2dcgcKiGoAp4K0nAeP4Of4E7H68F48j9teyBwozboAnArSEh5sx4/wMHke4ja8mNuFyRQozW2is+wpzF3qkhm6j6h38WfyvsDHsMxo7spPpkBpoxvnLVlbt5H0KpY1tx+wJ7CsxdxlKzOgNLCS0vfgIiW7go0UcBnLbqGV0VRmQKn6OJaGGLzReetKTIAyOxdSeBv2TVuoTdZas7rqAVpLMV08aS72UeeAatW3/kdPip0DxU7sq9ZTmNnZY/FOySecRRTts87wxs+2KNACqJzuFrVqxlxBsMNYXapAeddlwV+lXqVNwG7qna8dWhUoxRWxkSdtXVrGq2Rrx6AnNaC82/JJRDbRetXZR+qi7mbNNGpAKWonDk0LKPgUVlOjAxWQh5il8r2rHDtbBSgFzaIS88/J5LCQ7JvPagVWAUox27HJvo64eegAk2KdRiItoCGunxP5yVd+FybeUe9xXkDrrS/P18k/pWx2TegMlFNFtkuhbOar8bpY7QnVHncGSoLQT3daGNPWsaM6DyLQOsFVepkTUE73kLdLlZg43e8ElMyhb5doQVeuQKfT+qlCNgJVwTgexBXo9/FQ8UgIuAK9KUGixwm4Ar1PqK84KiHgBLRUKv0kzm0clRBwAprEuM74G2sryHjOQJmlQ3T+FEdBwBkoMUTx4iQUsApQZukzYr3DDS8VoAnFa8nY0IMmUPnp4R8NTZPm1YBy2ssW6h4xQ1ava/FqQJNCrjCWcYh6TdFHsZNUgTJLB6hG/ssLQ1Aaptr91O+8n1YFSlGi0LZQvyhaYH5hdJYF0MdU9RGHok5m5hutYtWBUtwfiuvBIaiXelXPKHWgCcVbjEVsoUhbs1QuQtlsJkB517+R6AH2VWoXoWyDJkCTJKqnUhJTY1C9CGULMgPKLO0n2S78Hvsk1YtQtjEzoJIIqPK13lqO5QexRhiLlvpFKNuQKVBJBtQRfJrjNfgJLkomF6FsM+ZA04RA/YB3c7uIZcDsIkQ/k5Qb0DQrUPNeBkwvQmlf6Zg7UEkM1DyXAdOLkPQz0YUATQsArOYyIKf1K2LLp7QORvklBEvJkev2rVCgND0qmv6fZaASuGbitOIO3INfYpUvPEaLrPEvL4BKrTSfXQa8Bic1/8veAE2LA+zoMsCY14xLU6uM3gFV6arAIBGoMvwINAJVJqAcLs7QCFSZgHK4OEOVgf4FAAD//1MNvtUAAAAGSURBVAMAPFcsmKKJZJoAAAAASUVORK5CYII="
+        }
+      ]
+    }
+  ]
 }
