@@ -47,6 +47,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "experience-points",
+      "payloads": [
+        {
+          "title": "Experience Points",
+          "text": "Progress to reach the next Level",
+          "image": null,
+          "popupOffset": {
+            "x": 1,
+            "y": -10
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "experience-points-1780341505310.png",
+          "w": 79,
+          "h": 65,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
