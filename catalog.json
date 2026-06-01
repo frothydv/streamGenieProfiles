@@ -163,6 +163,19 @@
           "triggerCount": 6
         }
       ]
+    },
+    {
+      "id": "pinball-hero",
+      "name": "Dungeon Baller",
+      "twitchSlug": "pinball-hero",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/pinball-hero/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
