@@ -173,7 +173,8 @@
           "id": "community",
           "name": "community",
           "verified": false,
-          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/pinball-hero/profiles/community/profile.json"
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/pinball-hero/profiles/community/profile.json",
+          "triggerCount": 1
         }
       ]
     }
