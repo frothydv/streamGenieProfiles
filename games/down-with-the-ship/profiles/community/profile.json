@@ -147,6 +147,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "smuggled-cargo",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Smuggled Cargo",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 11,
+            "y": -25
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "smuggled-cargo-1780425203146.png",
+          "w": 70,
+          "h": 154,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
