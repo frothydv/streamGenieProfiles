@@ -177,6 +177,19 @@
           "triggerCount": 4
         }
       ]
+    },
+    {
+      "id": "romestead",
+      "name": "Romestead",
+      "twitchSlug": "romestead",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/romestead/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
