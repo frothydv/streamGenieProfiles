@@ -187,7 +187,8 @@
           "id": "community",
           "name": "community",
           "verified": false,
-          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/romestead/profiles/community/profile.json"
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/romestead/profiles/community/profile.json",
+          "triggerCount": 1
         }
       ]
     }
