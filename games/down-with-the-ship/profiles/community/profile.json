@@ -1,31 +1,6 @@
 {
   "triggers": [
     {
-      "id": "white-dude",
-      "rotates": true,
-      "payloads": [
-        {
-          "title": "White Dude",
-          "text": "",
-          "image": null,
-          "popupOffset": {
-            "x": 26,
-            "y": -32
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "white-dude-1780423644684.png",
-          "w": 83,
-          "h": 71,
-          "srcW": 1920,
-          "srcH": 1080,
-          "maskDataUrl": "data:image/png;base64,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"
-        }
-      ]
-    },
-    {
       "id": "win",
       "payloads": [
         {
