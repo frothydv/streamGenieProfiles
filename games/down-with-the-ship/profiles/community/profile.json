@@ -100,30 +100,6 @@
       ]
     },
     {
-      "id": "cyber-criminal",
-      "payloads": [
-        {
-          "title": "Cyber Criminal",
-          "text": "",
-          "image": null,
-          "popupOffset": {
-            "x": -3,
-            "y": -1
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "cyber-criminal-1780425154797.png",
-          "w": 76,
-          "h": 75,
-          "srcW": 1920,
-          "srcH": 1080,
-          "maskDataUrl": null
-        }
-      ]
-    },
-    {
       "id": "smuggled-cargo",
       "rotates": true,
       "payloads": [
