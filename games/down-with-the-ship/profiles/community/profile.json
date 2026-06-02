@@ -98,31 +98,6 @@
           "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAABACAYAAABFqxrgAAADxUlEQVR4AeyaPYxMURTH3/hokFDR0NDSECLINkKBToLEVlRUxBY0GpGQVVBRUbAUFGisAkHCSiis0PgofCSCAonPYPz+m0yMyXuz7917z5s3s1f+x3lv5t1zzv3N3XvPsJOS+CeJEFgEEUKEAAEUV0KEAAFU2kqo1+uDWFGdZsB06jSVOQQmMRk7xywGsKLqZ8BDxi/Gm8kUAsVPo/KL2BbMVQsYOEKsAazGdXCZQaDgmVR7A9uA+WoqAQaxYeLOxgeVCQQKnUuVt7FlWEitJdgo8dfggyk4BApcSHV3sEWYheYQ9Cp5tNFqhXDrp6AQKGwp5WgFzMNbSnuDNtq75JzvmygYBIpZTzHaA2bhy9ISEun02Ip3VhAIANhMBToFzM908rRqBi+coQbnnsIbAsn3UIT6gCn4UpSRxLmn8IIAAB1bRyhKP6O4jsupp3CCwOR9ukBrUjox9OHk7ikKQwBAiC7QGoTi5+4pCkEAQMguUIVaW66eIjcEAFh1gdYgtF+17SlyQQCAdRdoDULxM3uKcSEAoKwuUIVa21hP0ZqkLQQAdKILbK3R/D4TAgA62QWaT7w5QSoEAFSlC2yu1ew6FQLZDmLaVXG9rywIH3t/6v9mGCHAIkKIECCASlkJ5Km0IgQ+niwIb3lvwihC4KPOghD7BOBECBECBFBcCRECBFAvr4S9zO8/pZ4OtVrtO0/twupYr0hz2cHcDrdOKBWCHuLhY/hN2G+s2yUA/czpRNpEMiHoYQZdwOs3Tb7iu1W/KFwAzuJT1RaCRgBiGN+Hvce6TT8oeCNzyATA+/l+t5kgD3h4OfYa6xZ9odB11H4Z31bjroTGaIK94FogHuOrLp1uq6n5ep5CUyFkDSToG95bgd3EqioB6KPWe3kLLARBQQn+Ga//8b2Cr5reUZAAPMLnVmEIigyIn3idGifxVdFLCllJbYUAMCbfxqgHW41kf7DtvL4f67SeUsAq6nmGLyynldCchcQHuN+GdaqpGiW3VsArvJO8ISgrIE7h9eOhc5nL0iQA2gO8epggEDRlQKip0ob5Sfcl2Ag5BMA7XzAIFJQA4hZeR6h1U3WNPOoDvAEQx31j1OA0A8QTXldT9RxvoUsEVScY7PtM0JVAcWMChJoqgbg/9kK4v4YIpe8COqK5DCMTCCoNEB/w+uIVqqkaIqa+DQY/hcwgAEB7xDe8To3zeB8dFwCfAO3GmkJQYopXU6V/nDmqewc7RIydDuNyDzGH0KiEiezGXLSvEcPKlwbBagIh4vYOBA8aEUKSJH8BAAD//8APkUYAAAAGSURBVAMAExU2kJcw8LUAAAAASUVORK5CYII="
         }
       ]
-    },
-    {
-      "id": "smuggled-cargo",
-      "rotates": true,
-      "payloads": [
-        {
-          "title": "Smuggled Cargo",
-          "text": "",
-          "image": null,
-          "popupOffset": {
-            "x": 11,
-            "y": -25
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "smuggled-cargo-1780425203146.png",
-          "w": 70,
-          "h": 154,
-          "srcW": 1920,
-          "srcH": 1080,
-          "maskDataUrl": null
-        }
-      ]
     }
   ]
 }
