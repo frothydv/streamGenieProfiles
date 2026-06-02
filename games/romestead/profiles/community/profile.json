@@ -23,6 +23,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "altar",
+      "payloads": [
+        {
+          "title": "Altar",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": -3,
+            "y": -16
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "altar-1780421724537.png",
+          "w": 133,
+          "h": 96,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
