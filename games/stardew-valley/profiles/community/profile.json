@@ -215,6 +215,31 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "log",
+      "rotates": true,
+      "payloads": [
+        {
+          "title": "Log",
+          "text": "Gives wood when harvested",
+          "image": null,
+          "popupOffset": {
+            "x": 10,
+            "y": -4
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "log-1783256587065.png",
+          "w": 50,
+          "h": 54,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAA2CAYAAACFrsqnAAAEgklEQVR4AeyaW4hNURzGHXflUi5FLikURXkhHjzIJR7k+sCLcS2iXAulXEqZYngS5VpDGKKU8EDKbVAjtwxFIYwQMXIfv283+3TOmXXO3mvvtc9IM33f/NfZe+3vv779X3vt2ftM82b/yU+TkX+tkE0VaapIQmcgsalVV1fXFS6DVbCzi/Gj0xoegCNy9ZwaIUFLOBmeItEruBMOhf1hLKDZG4HbcA5cCbPgxAhJhsAdKGvwp4lTYCvoY4DfiBLRHsNx9+AQKExnW081fEYygkhfWAJV5meI3YXLYTdoQqSKoJ+CGxC8ADtBHxr3Kv+DojYo5iVCQ2HuwDX4gxykMvclBsG6IuTsiKgMbCSaxrmAPu3Z58HUwduR8esd7YfQZuB0z4KVEQY4mKM1lcYS86EDOxZCD4FGUqnUS3puhnEQemphYhaJdFH3IQZhJf1T6hRoRJ3gNlgNo6IzCXUG8x7P/jZwLx2OwDYwDHrRaQZsFsoIVflF57kwDgblOxgDWlpvsX8+tIW3FIcyImXMXCeWw6gwXieYyF1abfW1KISrSIayltjPGZ9tmlnXCQbyLa02mupboV+hK6LOVOU9cS2MgnRFMKGzWGhptdE/rs5WRnQAZnYRtTQSrOAZwUSYpTWs8BPGo1uD9dTyE8zzGxaxHyZsltYw0lrhvH7WFdFRnAWt86qMPvoMil3ooMRhl1a6B8KbVuoVyYgOhGug7vqERkF6Wil7ZCNU5QsCK2BjQdVN545sRAqY0X3lmtqNwPS0Uu5YRiQAdcf/SSwmyjiJ3mrlJ41tBMHHiG2HxUIFObOeRZQ4thGJwE3wBUwaV0igJZyQDSdGOEPfkF0Kk8R9xCeS6zexAZwYqVcdVR+TCHoXMAYTWimN+k6McMfW0+NqY4b4Gz8iMRoTb4l5EcsIBlrAk6iXwCTwA9HxmNCCQjM/IhvBQFtkz8JpMAn8QXQGJvTARbMwIhnBhN5eXEZ6PEwKCzFxJqy4tRFM6PWn7ubDwyaJ0G8LJvbbHGdlBBPdEa+E/hs/ms5Rjon1tqqhjWCiH+I3YdYjK59d4iJikRaOUEYwoac6VUJvO8iVCKpQnUQ1dJHTtEOgEUwMQ1LXhB6MaCaC56iOxcRXYiQUNIKJcahqdSr4co0+caAXGrrhfYgjktcIJqYirPtEO2JSqEVYlXhKjAWjEUzMRlV37JbEpKA//nRN3DEksN7UwAgmlqByCHovh4lJoYRr4pIr8QZGEC6FSWM9Jg67TGIyUuMygUFrHya2GLbH2mQy8iaWYuGDz7E7/eUMbWcwGUmqIvqrYArVqHM2+gyhYhnRl0R6rviekdtpsxhGVGHd8D45HXmOmMmIy2tE36XoWft1Tl7nH01GdAZdJNLXdXrr8cCFWJBGUkZ0Qc/iwr4aNABX+01GXEyt1Zg44WqQYXRMRjS19MJNhh4hcgNq/T9K3A23Qn39tog4E06A+m+dgUQ9QbbDRBntoqKBEQZRCzWYHsRBcCTUXNdUWUx7HSyFe+AxeB5WwmpYA3USimpCyf4CAAD//3IpkJwAAAAGSURBVAMARuZDfCeV4UwAAAAASUVORK5CYII="
+        }
+      ]
     }
   ]
 }
