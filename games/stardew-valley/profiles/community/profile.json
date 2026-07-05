@@ -442,6 +442,39 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "leah-s-cottage-1783293934962-c5fc",
+      "payloads": [
+        {
+          "title": "Leah's Cottage",
+          "text": "This marks Leah's Home on the map.",
+          "image": null,
+          "popupOffset": {
+            "x": 43,
+            "y": -30
+          }
+        },
+        {
+          "title": "Directions from Farm",
+          "text": "Head south and turn right once you leave the farm screen.",
+          "image": null,
+          "popupOffset": {
+            "x": 261,
+            "y": -68
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "leah-s-cottage-1783293934962-c5fc.png",
+          "w": 57,
+          "h": 54,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
