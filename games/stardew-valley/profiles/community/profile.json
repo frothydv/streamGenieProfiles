@@ -409,6 +409,39 @@
           "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA9CAYAAADxoArXAAADcElEQVR4AeyaO2gUURSGZ0URFHwLGhEFLbTbdCpprIxosWl8FBoVfCFoghY+Om0UFZIUPjptxHSJEFALKwsfTdJpoa2PQoOFiq/4/WZSBLMz986d9044357duXPPOf/cO3NndzLLa7G/SnDZBzy2EZ5I/q8ex2DEJjiOYkJiHAppN2oukuB9TKLZRqoCdiqS4EXo6AInK5JgCT2oFxdiEcxUu+pShEXfbeRaabH/f7s6CSZ5De4Q9QykYar3gEsiBYjUH6G6gDygczekaUdckkUSjNh5JH0MOyFtW0v+jqhJrQWTbAnJnsJWyMoir8lWghG7AoXPoR2ytF3UollmXYOxYBKsI/oLWA9Z23wK2A3WZiQYsbqP1ciuts6QXIdI0zpUMGK3ULPO2aX4PFkHta2xLMgLFEzAHQR8AppCuNzZUduKmgpG7H6CaZ2di8+rdVNnzaa4GQUT5ARB7sKM7WzPi7VRSCcYWzNB14wjZL+j1ReKZoI/Z6/DuIIGM3Kh6d5lEDwHsbre4MKtDIKl0nhNLovgOtPaaDUpi2CN8gK9hFEJ9o9Qka7Sfsme0wh/mopSIO8kuIgjbLQWV+ewP4WLOMItN6VbTrDBOew1/QGgtaZ0rVb7zrk8AkUypyktoSd5+QlFMTfBjPJblF6HopibYF/lRfw7KII5XbT+CWSUv/EmrSeDpHKyWEbYQ/Q9ytATB1yiph/6F5NBP/o38D3QB0MwCuMQZPEI9jM4PaL0Y4S5AQ7uOIzBMPRDL3RBO+hgCD3X0r8+9BKwH4ZhDP5AqDW7l57WkWQKeHPaxng/fCDcIAQadeiAjOKHoA96oAF10IO+wP5qNBKsHeE8JHVDcouCfxM/cTMWTEE6hy4kUNEvYt6AVMxYsKpBtKa1prc+xsUgcT/GFSwsjpVgP9hh38flBuIKZBLHWjCj8ZLAWqpwkWyCXlqCzuE3Ei+NJY9Uk2YteLKbdxr/FUztBzs+guPQhshNcBle8TlViySYQt9T5SUIsi80aqnZi19On07Q1Vh92ZSNRRLsl6onjG/891NO9923+bAdliFwD9wHiWdTxkb6yIIRoeXkFDFewxXYDKvYfgweQi6/WkYWjDjdZ48gbAOchWegC5KacouT4NyqCiisEhxwcErRVI1wKYYxQEQ1wgEHpxRNLTfCfwEAAP//cmmO2QAAAAZJREFUAwD7TgmKQa6LdQAAAABJRU5ErkJggg=="
         }
       ]
+    },
+    {
+      "id": "leah-s-cottage-1783293901416-d7e9",
+      "payloads": [
+        {
+          "title": "Leah's Cottage",
+          "text": "This marks Leah's Home on the map.",
+          "image": null,
+          "popupOffset": {
+            "x": 27,
+            "y": -9
+          }
+        },
+        {
+          "title": "Directions from Farm",
+          "text": "Head south and turn right once you leave the farm screen.",
+          "image": null,
+          "popupOffset": {
+            "x": 67,
+            "y": -68
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "leah-s-cottage-1783293901416-d7e9.png",
+          "w": 57,
+          "h": 54,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
