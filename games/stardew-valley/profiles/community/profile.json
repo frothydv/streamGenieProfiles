@@ -337,6 +337,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "watering-can",
+      "payloads": [
+        {
+          "title": "Watering Can",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 21,
+            "y": -20
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "watering-can-1783261973058.png",
+          "w": 65,
+          "h": 42,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAAAqCAYAAADsxDbcAAABRklEQVR4AeyWMWoCURiEdw0JOUNSp0uR3MLe1s4rKGJpI6JHEG9g7wlsxdJSwTvYuX4DChYK4lvUX0Zm9i3uvrc73xvBSpbwKYqijsMrCQL8Zji8UiGswxMgQBKEPM93rBG+DUkQACCNdIjsMiAsIwPQuxsCFMqA8Mk6oVUGhL/QBHh5Q0iFwF/FD9Zo4NBKbUKX9D84tCrs5vSWBMz7Z14Lh5eaUCXQHH9dm4Z737h3jDUyxJYgKIF2dUW4Dr4YTNdwmwlbrDkM8XWEoCTvHHp4QdAhruHvg3U+0DXcx7qX4TEq+6mnEI5r/3LSxBO8OVjn+v3rGl+9ls5BeK2EV6QxBCAZgiFAALkJhgAB5CYYAgSQm2AIEEBugiFAALkJhgABdJcm8JynliGwPYZgCBBAboIhQAC5CYYAAeQmGAIEkJuQZdkeAAD//4vAaakAAAAGSURBVAMAHjANYNrTsUcAAAAASUVORK5CYII="
+        }
+      ]
     }
   ]
 }
