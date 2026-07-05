@@ -313,6 +313,30 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "hoe",
+      "payloads": [
+        {
+          "title": "Hoe",
+          "text": "A tool to dig",
+          "image": null,
+          "popupOffset": {
+            "x": 17,
+            "y": 5
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "hoe-1783261898669.png",
+          "w": 58,
+          "h": 60,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
