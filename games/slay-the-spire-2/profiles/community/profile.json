@@ -299,8 +299,8 @@
           "text": "At the start of each combat, discard any number of cards then draw that many.",
           "image": null,
           "popupOffset": {
-            "x": -28,
-            "y": 30
+            "x": 19,
+            "y": 2
           }
         }
       ],
@@ -310,7 +310,8 @@
           "w": 66,
           "h": 62,
           "srcW": 1920,
-          "srcH": 1080
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAAA+CAYAAACftM1SAAAENElEQVR4AeyaS0gVURjH780EwVXWxrLSWiRGUotAUKxVRemmhB4ilSs3Sm3cSQbuhEIhwkUUQg+ix0ItqU2YREGLygxKih5gUkEtKunF7fddjlfv+8zcmTsPR/4/z8w4c873/ed8c2e8syQU/EQdCIyI2hAKBUYERigHVBPMiMAI5YBqghkRGKEcUE0wI9xsRCQSKYJSqIJaaIAW6IBu6INBGIJxmIRpmIXbsEHlp924akaQwG64T/SzMA2TMA5DMAh9cAI6oAUaoBaqoBSKYBc8p59+KGFZS44bQbAFcBCeEvEI1EGuWkoH7TBFv+0g66yml2NGEFwhtBHaK7gE1WC1ZEb00+kEY+2kTau8G0FAxXCMiN7AWVgHdquSAUYZdzNtSuXNCIIoAanvd0RyGsog3zqSbkDbjSD5MjhFAO+hG5ZDyCGaiSXl9cI2IxiwAs6RsJTAcdpicForCKAJkmS5ESS/CS4y0hS0QiG4SXKBTorHMiNIvg6GGeEZHIICcKPqiXNtYmCWGEHHB+hYboT20LpdYQI8CnHK2QhMWEaPZ8BLOpwYbM5G0KHcC8iNC4ueUTkncPvCaHMygs6kJPYv7NBDy3EXTdNGYIIXS2LhedpLDrF7GtNG0KMXS4KwY5KPdXmCjW4wZQROerkkoomrX7FbbsNGYILXS0J5EN8YNoLDvV4SpBDTlbklQ0YwG/xSEpJ/hF9XISptIzDBbyUxFg6H5YHQmBHs7Y+SIBGlWFnIutaMYDb4qSQk7z/8ug4xZTUCE/xWEpL8LcrisyzMkdUIdvRbSZBSKK4sZIOOETWyo4/4Ti7yPQnNvHSMuDe/uy+WRiiLH4mZ6BgxmniQx9eTykLy0TVCbj5kf6/ziQTk34k08cpqBNPoG4fI/yFpPK+b5PM3VRZZjVAH+eU6kbIsJMfFZMRrZkPaE2rEiF/inIe5lil2LSNwUq4TDzN15IG/pS0LiV3LCNkR0k4r/uZWyTOFvHKwlZP5JFOQfjVCniN6SHwNBjTDY5YzyogRD+jpK7hZctblW6zVJN8FM7rBahtBp7/pdAyMyf69/zGEPFLXE+MWuACGL+zaRjCYyE3XCZmdvQRVQeJNIN+9smpOXjTiBanKt1SrSL4TPrCeswwZwaBSg3Imch7YRAd3OaaBGDbCAMgriGyyRoaMUEPeUW0+mp8MMgCVJL4D5PVDVq2XGSPy8VguL5x1kq5M/zYMeMmyrTJjhJ0XTPlU2kfG60m+F+SOllX7ZdgIgntLWPK6byPtSZDn+4+0ZiUfdec5uJq+t8ENkI9ENuVPho2Q0Ah0BoahGxphJduNmiPvWndxXBnHt8IEy47JlBGpoiURXXMecby8bFbOMT3whXXHZZkRqTIhySRz2FYDl0EeiFId5sg2W41wJCOTgwZGKOMCIwIjlAOq8fGMUBlqNv8BAAD//y0X9zEAAAAGSURBVAMAmTY+jPMHiBQAAAAASUVORK5CYII="
         }
       ]
     },
