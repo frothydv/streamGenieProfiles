@@ -361,6 +361,30 @@
           "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAAAqCAYAAADsxDbcAAABRklEQVR4AeyWMWoCURiEdw0JOUNSp0uR3MLe1s4rKGJpI6JHEG9g7wlsxdJSwTvYuX4DChYK4lvUX0Zm9i3uvrc73xvBSpbwKYqijsMrCQL8Zji8UiGswxMgQBKEPM93rBG+DUkQACCNdIjsMiAsIwPQuxsCFMqA8Mk6oVUGhL/QBHh5Q0iFwF/FD9Zo4NBKbUKX9D84tCrs5vSWBMz7Z14Lh5eaUCXQHH9dm4Z737h3jDUyxJYgKIF2dUW4Dr4YTNdwmwlbrDkM8XWEoCTvHHp4QdAhruHvg3U+0DXcx7qX4TEq+6mnEI5r/3LSxBO8OVjn+v3rGl+9ls5BeK2EV6QxBCAZgiFAALkJhgAB5CYYAgSQm2AIEEBugiFAALkJhgABdJcm8JynliGwPYZgCBBAboIhQAC5CYYAAeQmGAIEkJuQZdkeAAD//4vAaakAAAAGSURBVAMAHjANYNrTsUcAAAAASUVORK5CYII="
         }
       ]
+    },
+    {
+      "id": "parsnip-seeds-1783284453480-d6f8",
+      "payloads": [
+        {
+          "title": "Parsnip Seeds",
+          "text": "Takes 4 days to mature in the Spring.",
+          "image": null,
+          "popupOffset": {
+            "x": -2,
+            "y": -116
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "parsnip-seeds-1783284453480-d6f8.png",
+          "w": 67,
+          "h": 71,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAABHCAYAAABcW/plAAADc0lEQVR4Aeyau4oUQRSGZ7yhYiKugSZisEaaLQZGGgiKt0QEI81EBFFQUXyZ9Q1EECMxFR/AyxNorKCg4vj9bE9vTXddZ2Cnq2qX82/19lTV1Pm6zunisDtGiT+TyeRM4pBsuifDwLPHqEhLgsGuOAaFa6hIS4IBgedojIq0aBjsihUI3EIjroduq1pnqqJhMPFDtAflYJfmWWQUDLbBXia/i3Kxy/MsNAoGE99BB1EudpYHuC91sUEYTKqE+SR14iX338n3X0RJFoTBbDfRUZSbJYdKDIynuVFo1nulaaMbLwxC5DwznUI52grrX0tZuBcGE+V+9E56xTphQPUkMLQzaLK1pLzhhIH7z1DutsZDPRTrhBUGExxhghvIa5l8eDV2nVYYDNa5YhdtCRYdKj0Y7IoDENCJk6YIu4BPPT9tntk63adj8lGWMUO1/SzsHAraDAwI7mbEA1SaRYXKDAwI3EaHUWkWdd7ownhUGoXGn1V2/fHm2tm0MOis2uYJZ8/8P5B/Xi9aGPTS65SmWAvmDRPG6WIxbDgWLPiYMH5ujCn2d7DgUxMMPWVvqNQGw1vwqQ2Gt+BTGwyFivMAZsL4pZ5bpuV9kTNvmDBKf5tM8TsLPjXCEBRrwadWGNZQqRWGteBTKwxrwadWGMobvVAxYdTyahUIqXfeMGHU8moVCOmffpmqGcZLE4Sut2GIQqNaYXwdj8fvGwZtUyuMVy0B48KEUdPbpJcvxMSEUcvb5DuOv0U9yxRGz4+UG2/IF39sA2qEYQ0RwakNxm+cfo2sVhuMd4TIDysJbtYGwxkisBi1MCD2lxsvUKk2wbE4GHSU6Z/lP+qiQH3ggX/z+dXuDHWisw5e17ku8czh3RX4vBkm+kMCyCfae6g0S4chAgBZpy0pf3zBp8/45LWZMOn0LCl/BHeFfHfCgGRJ+WMxGCIFkBLyh7V2If+6cu6MaUeA5J4/rLWLqX9mG4TRdM45f0SFiPyMgsHuyDV/2GoX8tuqKBgaCZAc84ezdiGfuoqGoYEAyS1/RIeI/EuCoQEol/zhrV3gR8+SYbA7cskf3tpFjwQ3kmEwZgSQHPJHUojIr7lgaCBAhpw/grUL+dDV3DCaiYaaP4K1i2b9M81CMNgdQ80fySEiKgvB0AQAGWL+WA6MBsg6UIZkwdqF1t3VfwAAAP//2MNGcwAAAAZJREFUAwA8aVGe/44OjgAAAABJRU5ErkJggg=="
+        }
+      ]
     }
   ]
 }
