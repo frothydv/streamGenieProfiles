@@ -207,6 +207,19 @@
           "timesUsed": 1
         }
       ]
+    },
+    {
+      "id": "doom-the-dark-ages",
+      "name": "DOOM: The Dark Ages",
+      "twitchSlug": "doom-the-dark-ages",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/doom-the-dark-ages/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
