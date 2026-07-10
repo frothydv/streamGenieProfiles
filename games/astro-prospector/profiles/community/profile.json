@@ -123,6 +123,44 @@
           "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAApCAYAAAB6MAquAAACiElEQVR4AeyYzyttURTH333v9aI3eK+IkgEzAzKQwr/AgKIMGciIokiKovwW/wFGZmKgDMwpJYqJJCakGDHwK67Pqnt0w3X32mef43Kv1sfazllnrfXde3f3PX7++GY/GUGpvqCZFUrbFYpGo6XQAxtwB08Qbzf8sQX1LifJ2ZaTxmAVzuGJJvdgEqrhD0Qg3rL4oxKWid+EbMa+zUoQxWX25/EX8AhROlmGWsiH181z6UOr4u4VeZrxvkwliIJZMENFmf0WfC6ochCfyH5zY5H8OXhrM26GQuVUOYIuCMpkZS+p1WpbwEgQBf5SQLZUAT4Mm6PmgE0hI0EkHoFiCNOGEfVfWzCpIJLWkLQDPsNOtEWTCiJhJ5jEEebc/jGhU5qsJo2WaBIGENuuyWkiqEiTMIBY+UAyTmsi6NY4WzCBJj2+VDYJ3n2J/gKDtBQ0z8I8gHMLImHSFYpEIgcUHoUvYUkFxVSM4Xcg5c1IEKt0h5I2eISUNiNBogBR23h5CVOd3Dzj1+41CYwFSVJEPUAv4zJYgAuQt1NcYLauyawS5CVG1D60Qh78AnmP8W679PImrHr/shKUoOPrBNf9XB5gsg41CVwKWtMUNog9I2YcVOZS0CCVZYvgfJt8mtaxOuJVyZwJorgcwOoZfafbWa5lk8/q3HMmiCbEhvh1DFqTlV3hoTKEdIP1Vy2ngmhEDuAmGtNsFYmt4NkG2OdZX+ZUkHRCU94BLF+XPjqj5N4Ez1hvL559Y84FSQVEyQHcz1j+l9eDX4LTGDKWw7mcuD6w3l7ke2OBCPKq0KwcwNP4RiiMIeMpxr63l1cn3gcqKL5QWOOMoLBm2rZO+q6Q7YyF/dy3W6FnAAAA//+nCQAdAAAABklEQVQDAJhhu1Ny0HQPAAAAAElFTkSuQmCC"
         }
       ]
+    },
+    {
+      "id": "screws-1783702468197-f181",
+      "rotates": true,
+      "rotation": {
+        "mode": "free",
+        "minAngle": -30,
+        "maxAngle": 30,
+        "step": 5,
+        "fineStepNearZero": true,
+        "baseAngle": 0
+      },
+      "scale": {
+        "min": 0.75,
+        "max": 1.5,
+        "step": 1.12
+      },
+      "payloads": [
+        {
+          "title": "Screws",
+          "text": "Another currency to buy things",
+          "image": null,
+          "popupOffset": {
+            "x": 13,
+            "y": -19
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "screws-1783702468197-f181.png",
+          "w": 42,
+          "h": 39,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAnCAYAAAB5XdqFAAACYElEQVR4AeyWvytFYRjHHUIoijCyGP0YWCSL1WIyiJKUwWC1KJvdwsCAPwCLpIQsYpCF0WBCsRFxfR6do8N9z3veH/fcUlfP977nfd/nx8fj3sctL/snPyXQQv+hSh0tddS3A7lcbhydozcUmTzL2bhvfu/3KERt6BiQDdSLKlFk8ixnG+KD2qIL29UblIK7aBClmfhspTkl3XuB0qFJEnchUxsIY0z9f/y8QMmyjGxt1DZA/J1A6Uo/eiZBHbK1HtsA8XcCJfAINaCimRUoXVxEH9DJp5nFyS5dooxAgZMRdEWBBWQUg1+SrSRd6M5TiwokCa5RJ/K12yAItl2SaEFjkDUuyRUx7eR8RP2KO+2RFpTIA1QoSFJ9WxOve8jKEkH5rWWYd1hlM3euJ7/8RzOOSAQlg9NgJs7Uhk0dxU8H6jSYJamhArp6j4y+qOhADet5uTUTvYNSTQfqNJhTK+Y7dNNV+Tzk38ROdKBOgzmW2+ZxDVjtyEoEDQfzflgt6yWgwAmwie/XRFACxeZ4eUM6S7vXxcbvKticIaVpQenqDaomcgJdoFf0iWSV/YTcI+nIKudPyMda6ary/aoFjSoCson6UA2qQLLKfjPmM8N5I/sl5GPK+W0EalMV2Hn8fTqrnN8FBwVSbExeCqlMQOmqfOkYcQRVzu9MQAUQWPneeSrPllLO78xAQ7hpVpvxtRP+goT9tkxBKRqNt/XfZZW7F05nkdIyBY0qAjyFZNYecvaO4vbARuZxLT53PCutKKBRZUCGUBWKWwubn3kc+f5diwr6t7jNvgRq0y0T3y8AAAD//8jY+/0AAAAGSURBVAMADAyjT5bnnpkAAAAASUVORK5CYII="
+        }
+      ]
     }
   ]
 }
