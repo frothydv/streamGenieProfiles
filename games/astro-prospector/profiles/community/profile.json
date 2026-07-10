@@ -23,6 +23,39 @@
           "maskDataUrl": null
         }
       ]
+    },
+    {
+      "id": "currency-1783702163691-c193",
+      "rotates": true,
+      "rotation": {
+        "mode": "free",
+        "minAngle": -30,
+        "maxAngle": 30,
+        "step": 5,
+        "fineStepNearZero": false,
+        "baseAngle": 0
+      },
+      "payloads": [
+        {
+          "title": "Currency",
+          "text": "Used for buying things",
+          "image": null,
+          "popupOffset": {
+            "x": 16,
+            "y": -29
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "currency-1783702163691-c193.png",
+          "w": 35,
+          "h": 32,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAgCAYAAACYTcH3AAAB2klEQVR4AeyWTytEYRTG5yJCssLCyoZSFrIQK0vFYuzIQpLyAcRnsKCsWYiE1ajxBYSyURYs7CzsJCVDNIzfqTt15o73vX/mXmma6Xk65973nOd97pl7661L/aNfdZkpFAppeAIfYN6l5FnydJjBR54MG7XDOzbLwAnYDetdSj5JnqHmAjaT+yKSGcTnUH6GvdAPoxQ80TNNtCK0GUQXUNyBDgwKmcw+va22hlBmEOtAbAtGgex1amuUAtu6d+2eG2EmQnkJhnigtZI76iKQGQT64Td9LbBSrKA1+5uIrxkaszTewkomQnsJ9tAte3+sZmgYQUI+UUKskAe78ipazVB8DpNCHw+7pMWNZii8pNC4zloc2NQits2GdWFCeaPWtZnRdX+S18yYxlybTJTJvJiakrpv+5uOktpU6eZVnrKZWdeFCeUbWtdoxnEcOVIe6OKY8xx7rGpNoxm3aJ74BpNAl1fUagbnHzSMw7hxiHbOK2o1I8U0nRHlAE6oGJ8odKI5QyyDrxnpoHmXKKe8a2IUiIltdJrgo0kgkBlpRuQdDpJPQTlYvxI1vriQM7J8hQPUaoiJRdatCGymqMIOx3AMtkGNBi564DK8KdaHia6ZMC3J1dbMmGb7AwAA///84/nOAAAABklEQVQDABfigkHZpItJAAAAAElFTkSuQmCC"
+        }
+      ]
     }
   ]
 }
