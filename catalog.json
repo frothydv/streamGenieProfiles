@@ -221,6 +221,19 @@
           "triggerCount": 1
         }
       ]
+    },
+    {
+      "id": "astro-prospector",
+      "name": "Astro Prospector",
+      "twitchSlug": "astro-prospector",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/astro-prospector/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
