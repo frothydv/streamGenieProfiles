@@ -1,3 +1,28 @@
 {
-  "triggers": []
+  "triggers": [
+    {
+      "id": "reroll-currency-1783702036888-1311",
+      "payloads": [
+        {
+          "title": "Reroll Currency",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 56,
+            "y": -60
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "reroll-currency-1783702036888-1311.png",
+          "w": 52,
+          "h": 41,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    }
+  ]
 }
