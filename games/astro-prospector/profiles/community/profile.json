@@ -94,6 +94,35 @@
           "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAgCAYAAACYTcH3AAAB2klEQVR4AeyWTytEYRTG5yJCssLCyoZSFrIQK0vFYuzIQpLyAcRnsKCsWYiE1ajxBYSyURYs7CzsJCVDNIzfqTt15o73vX/mXmma6Xk65973nOd97pl7661L/aNfdZkpFAppeAIfYN6l5FnydJjBR54MG7XDOzbLwAnYDetdSj5JnqHmAjaT+yKSGcTnUH6GvdAPoxQ80TNNtCK0GUQXUNyBDgwKmcw+va22hlBmEOtAbAtGgex1amuUAtu6d+2eG2EmQnkJhnigtZI76iKQGQT64Td9LbBSrKA1+5uIrxkaszTewkomQnsJ9tAte3+sZmgYQUI+UUKskAe78ipazVB8DpNCHw+7pMWNZii8pNC4zloc2NQits2GdWFCeaPWtZnRdX+S18yYxlybTJTJvJiakrpv+5uOktpU6eZVnrKZWdeFCeUbWtdoxnEcOVIe6OKY8xx7rGpNoxm3aJ74BpNAl1fUagbnHzSMw7hxiHbOK2o1I8U0nRHlAE6oGJ8odKI5QyyDrxnpoHmXKKe8a2IUiIltdJrgo0kgkBlpRuQdDpJPQTlYvxI1vriQM7J8hQPUaoiJRdatCGymqMIOx3AMtkGNBi564DK8KdaHia6ZMC3J1dbMmGb7AwAA///84/nOAAAABklEQVQDABfigkHZpItJAAAAAElFTkSuQmCC"
         }
       ]
+    },
+    {
+      "id": "reroll-currency-1783702234191-9a63",
+      "scale": {
+        "min": 0.75,
+        "max": 1.5,
+        "step": 1.12
+      },
+      "payloads": [
+        {
+          "title": "Reroll Currency",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 56,
+            "y": -60
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "reroll-currency-1783702234191-9a63.png",
+          "w": 52,
+          "h": 41,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAApCAYAAAB6MAquAAACiElEQVR4AeyYzyttURTH333v9aI3eK+IkgEzAzKQwr/AgKIMGciIokiKovwW/wFGZmKgDMwpJYqJJCakGDHwK67Pqnt0w3X32mef43Kv1sfazllnrfXde3f3PX7++GY/GUGpvqCZFUrbFYpGo6XQAxtwB08Qbzf8sQX1LifJ2ZaTxmAVzuGJJvdgEqrhD0Qg3rL4oxKWid+EbMa+zUoQxWX25/EX8AhROlmGWsiH181z6UOr4u4VeZrxvkwliIJZMENFmf0WfC6ochCfyH5zY5H8OXhrM26GQuVUOYIuCMpkZS+p1WpbwEgQBf5SQLZUAT4Mm6PmgE0hI0EkHoFiCNOGEfVfWzCpIJLWkLQDPsNOtEWTCiJhJ5jEEebc/jGhU5qsJo2WaBIGENuuyWkiqEiTMIBY+UAyTmsi6NY4WzCBJj2+VDYJ3n2J/gKDtBQ0z8I8gHMLImHSFYpEIgcUHoUvYUkFxVSM4Xcg5c1IEKt0h5I2eISUNiNBogBR23h5CVOd3Dzj1+41CYwFSVJEPUAv4zJYgAuQt1NcYLauyawS5CVG1D60Qh78AnmP8W679PImrHr/shKUoOPrBNf9XB5gsg41CVwKWtMUNog9I2YcVOZS0CCVZYvgfJt8mtaxOuJVyZwJorgcwOoZfafbWa5lk8/q3HMmiCbEhvh1DFqTlV3hoTKEdIP1Vy2ngmhEDuAmGtNsFYmt4NkG2OdZX+ZUkHRCU94BLF+XPjqj5N4Ez1hvL559Y84FSQVEyQHcz1j+l9eDX4LTGDKWw7mcuD6w3l7ke2OBCPKq0KwcwNP4RiiMIeMpxr63l1cn3gcqKL5QWOOMoLBm2rZO+q6Q7YyF/dy3W6FnAAAA//+nCQAdAAAABklEQVQDAJhhu1Ny0HQPAAAAAElFTkSuQmCC"
+        }
+      ]
     }
   ]
 }
