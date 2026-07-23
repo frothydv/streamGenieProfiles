@@ -235,6 +235,19 @@
           "triggerCount": 6
         }
       ]
+    },
+    {
+      "id": "guildrun",
+      "name": "Guildrun",
+      "twitchSlug": "guildrun",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/guildrun/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
