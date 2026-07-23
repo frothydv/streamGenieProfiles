@@ -86,6 +86,30 @@
           "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAABECAYAAAD5lNkeAAAEgElEQVR4AeybTYhNYRjHZ3yUr4goykZRLMhXIbEgJSk2qMFGrIiNHYUaSytTMhvNwmwMIaFMYhYsEDsURUjJV74ymLl+f81bt9u9Z87H+57zvtfR//F/ztf7Ps/PnXvPee8Y0VL+yUyghJgZYUtLCbGEaIGAhSHKV2IJ0QIBC0ME/UqsVCqHLDDIPETQEOm+HZB78UIVLETgHR0i10G+eygvxIKECDQBPFJFrJN9O6q2c02DgwisWoAC1spfXRzbiueuoCACqR5AA029dHPOJrMjL9fEec2VaR7gNAJYPe5INno4dy2em4KACJQ4AA20USRXuGYVnou8hwiMJAANtDEk17l2Ge5cXkMEQhqABto4kl7GWIw7lbcQaT4LQANtAslNxpqPO5OXEGnaBkADbRLJLcacizuRdxBp1iZAA20KSR9jz8atyyuINOkCoIE2jUQgZ+JW5Q1ExwANtBkkAjkdtyYvIOYE0ECbRSKQU3ErKhxizgANtDkkAjkZz6xCIRYE0ECbR6JP7Yl4JhUGsWCABtoCEt1HjsdTywLE5HN7AtAUvoRETzZj8VTKHaJnAA205SR61h6NJ1auED0FaKCtJrlIjVpOI42v3CBSnMsb6fgdR5+5gcNaj0zEJdHJTJBKgQA0vW0m0Qq5vnIgHV7OIQYG0BDbRtJFxJJTiIECNOB2Un+n2YhyZxApIIT3wCg2OraHPk4qiQonEJm4GQAabvvop91s1HMnEJnoLTFANIu0sNuwFycQW1tbTzPjGuILEbpu0MB+oqGcQNRsgOzD9SXRCzxUPabwzfRSwRvKGUTNyOTP8UXEHcJj1S3tPXvX0cMPPFJOIWpmiviM65HqLB6K+il0PbW/wYeVc4iqgGIGCP3W1kG2Bwnf1Ua9D+IWmQtEUwyFnSDfSHwjfNUx6ryQpLhcIaowCryGLyVeEb7pPPXpHjdRXblDVHUU+hRfSNwjfNF9CmkjEqsQiKoSkB/xlcQ5omi9pgB9kPzCE6swiKoUkL8J/XbrYbYj78U47krfGVi3Mh/wVCoUoqkYkMfJtY73E89TulPQzfSTLJN6AVENAPIyvoJ4R+SlA8zbm3UybyCqERp6hOsD5yHuWqeYr8PGJF5BVEM0phUgvSIvadtRaFHB2n8i8g6ioAGyn9B7pN4rtctmxFpUSDKhHxAbVAxIfWpv4XCqWw+uq1XsRYXaC6O2vYaowgHZg+t+MvUtCNdLiRYVdEHc8B6iGgGknib0gZPlViTRooLmjRtBQFQzgNRThZ65r2o7YSReVEgyfjAQ1RQg9XShVSCtBmlXnEi1qBBnYHNOUBBVNCArhNYlt7P9h4iS3gZSLSpEDVp7LDiIpgFAdpNrxfwTXk/68U+9qFBvwEb7goWohgB5F9d3OM/waunHPtOiQvVgw+VBQ1RzgHyJ61vF27hkZVFBA8WN4CGqUUB+xfU99xncyqIC48RWU0BUt4AcJHYRVhYVNGbcaBqIcRt2cV4J0QLVfxAtjPNfD1FCtPDPX0IsIVogYGGI8pVoAeJfAAAA//86jHwZAAAABklEQVQDAKqMMJhdCV1uAAAAAElFTkSuQmCC"
         }
       ]
+    },
+    {
+      "id": "test-1784825393618-5dbb",
+      "payloads": [
+        {
+          "title": "test",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 13,
+            "y": -2
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "test-1784825393618-5dbb.png",
+          "w": 93,
+          "h": 80,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
     }
   ]
 }
