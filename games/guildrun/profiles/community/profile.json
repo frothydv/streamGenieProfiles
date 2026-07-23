@@ -1,3 +1,33 @@
 {
-  "triggers": []
+  "triggers": [
+    {
+      "id": "rift-storm-invoker-1784824926548-baf9",
+      "scale": {
+        "min": 0.75,
+        "max": 1.5,
+        "step": 1.12
+      },
+      "payloads": [
+        {
+          "title": "Rift Storm Invoker",
+          "text": "The Rift Storm starts 30 seconds sooner. Heroes take 100% reduced damage from The Rift Storm.",
+          "image": null,
+          "popupOffset": {
+            "x": -20,
+            "y": -13
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "rift-storm-invoker-1784824926548-baf9.png",
+          "w": 98,
+          "h": 89,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABZCAYAAADFGPFgAAAFRUlEQVR4AeybP6gdRRTG79MmFhaKIKJBEcVCBdP5r1BMKSgYJIWgjZBIKsVOMCLBJmgRxZQSkCBBCyFYBNJqVAK2NmIUQbDwXxTFeP19yRuzyX0vd2f3zOyZ+06YL2f37u7Mme93Z2fu3vuumsU/Fw4ECBcYZrMAESCcOOAkjRgRAcKJA07SiBERIJw44CSNGBEBwokDTtJoY0Q4MatkGgGipLsZdQeIDLNKnhogSrqbUXeAyDCr5KkBoqS7GXUHiAyzSp4aIEq6m1F3gMgwq+SpAaKkuxl1B4gMs5acOupwgBhln93FKw9iPp9vQ9vRDrQT7Ub70H50CB1FJ9BpdAb9gfbYWdyvpqZAYFC2qdjwJzqDTqMT6Cg6hF5F+9ButBPtQNvRNeht2nqIWK24BYERescSLhZcGWIql2WXq7niY1q+hViluASBAfvpvd6xhMnK9bT8CblsIxYv7kDQcQ8QkvH3sKFbGaFscQXCGYTk/JPkVXx0ugFBZz2NhAQhRc1XT6SdEtEFCOcQku9a5t6ddqzj5CAagSDftazV5H2ddqxVDcRGiTcEIaWvzxla1pr7Zl5hynhZbBBC6tLDbLyDTMskIBqGkMzfQx+eTzsWsToIOuB5dZTj6bv0xewxSFUQJL4qEATM9DFINRArBkEgJLPHIFVArCgEgZBMHoMUB7HiEARCGv0YpCiILQJBIKRRj0GKgdhiEARCGvwYpAiIdiHIy1Ea/BjEHMQWhpAIDnoMYgoiICQWs+zHIGYgAsL/ENLGtWmjTzQBERAWrP6OV7J+kmMCgkajXHTgXzZ3ra2t/U7sXUxA0KieIR3s3epqn/g6fnye20UTEGqUxl8mTgnjcdp/C/2Ipiqn8EFvyuz2zUCoZZKYEsYNtP8iedyMBOUY8S9Uq/xGQ7vQoGIKQhlgxlQwHl1v/xw5HEdPs38j2os+Q6XLXtr8fmgj5iCUCAlNAeMRtd0VefyCDqMHeP12dADpd7AE0/Ihbbw/psYcEFntkFhtGLeyjL5tsyTJ5xv0Csd1zmPEI+gsGlu0VH1ubCXFQCgxOl4bxsKoUB5dkdMcnUTP8rpuXYon2Z6j3DJoqbpRI0VBqEE6XBPGUhDKKYnczqIjSCNEv/zWiPk6He8RBy1VN6q3OAg1SkdrwcgCodySyPEHdADdxWsPosPoZ7RZOcWB15BJqQJCmdLBGjCuOE8ojz4i10+RVlu6dWn1dZzr/kGpnF+qcs6Q21mq45JYDYRaJfEaMAaPCuXYFfn+jY4hfS65iWMvoa/QqKUq1y+UqiDUOp0qDcMMhPJNIu+f0JvoPjRqqZrq7MbqINQ4HSkJowgI5V1Sk4BY79Ab69E6mMwT1kktq29KEHcsS27E8eZGxZQg7hxh9OaXXjgSIC740Ov/GBEdm1Z1RDQ3T6wqCL3Xmro9TQmi5K0pQMiBnnqB87K+YOf8nBIjoo9bfKj7gPP057JfEEuUpuaJKW9NM2Do2zJ9e6anmOcK0GhmVEwKQsYDQ98x65cP97P/LbIsASLXTYB8yTW6VX1EtCoBYoiTwNA3Zk9x7TPoVzS2eJ0nFvo1+a1pISNeAIgeM9/LpsVE3sSocAkCAJYTeYCQoWPEyLCYyAPEGAjdawEyZiJ/r1uX1223t6bLDQPGkIn8INdpaXx5de72mwGRnMPYvhO5IOgr2XSp69gcCLkJjGWfyJuCoD41CUKJA2Ozibw5COpPsyCUvASQ7kTeJAT1o3kQ6gQwzk/kxGbmBOXdlUsQ3QS3ynaAcEI6QAQIJw44SSNGRIBw4oCTNP4DAAD//x6SJJ8AAAAGSURBVAMA8Iubwjq7eeUAAAAASUVORK5CYII="
+        }
+      ]
+    }
+  ]
 }
