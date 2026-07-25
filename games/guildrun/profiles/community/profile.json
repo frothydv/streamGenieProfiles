@@ -81,6 +81,35 @@
           "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABHCAYAAAC3bEFmAAAB5ElEQVR4AezXMSgGYRzHcadISgYZpGSQkkFKBhkYZJCSQUoGKRlkkJLJyyQlgwxSMkjJICWDDAwySMkgJYOUDDJIGV/fM11vrvvXWZ57fm/vRy93V+f3/P7PUVzk+UsBeF6AIjVADfA8AY2A5wXQJqgR0Ah4noBGwPMCJD8F8vl8Di6+Te1OPCkIgpyjLSn9674Lf5YYQOEFDn1fYrnXLAfgfQO8D0Aj4PseoAaoAYYE9Bg0hOTqKdoDLCunEbCk5Og5GgHLwmV5BNSAsAFJ1ICkhBw+7v2/w94HoE3QMr7aBC0pOXqO9gDLwmV5BNQANcCQgEbAEJKrp+gPIcvKZXkE/GxAZNX1GIyEEfsxyyPgfQO8D0CbYOzgRw5keQ9QAyILHftRDYiNxv0DegpY1jDLI/B/DQh4kWY5KlGNWtSjEc1oRTs60Y1e9GMQwxjFOCYxjVnMYwGLWMEaNrCFHezhAEc4wRkucIUb3OEBT3jBGz7whfBdFn5JYm4AGXzjE+94xTMecY9bXOMS5zjFMQ6xj11sYxPrWMUylpDDHGYwhQmMYQRDGEAfetCFDrShBU1oQB1qUIUK/L6TfvnwuDmA8OQsUgCur2ra+1cD0ibo+vVqgOsrmPb+1YC0Cbp+vfcN+AEAAP//SQTSZAAAAAZJREFUAwDVuuePAxmimQAAAABJRU5ErkJggg=="
         }
       ]
+    },
+    {
+      "id": "charm-1784940852152-cf24",
+      "scale": {
+        "min": 0.75,
+        "max": 1.5,
+        "step": 1.12
+      },
+      "payloads": [
+        {
+          "title": "Charm",
+          "text": "+2 Mana Regen +12",
+          "image": null,
+          "popupOffset": {
+            "x": 51,
+            "y": -50
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "charm-1784940852152-cf24.png",
+          "w": 64,
+          "h": 71,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABHCAYAAAC3bEFmAAAB5ElEQVR4AezXMSgGYRzHcadISgYZpGSQkkFKBhkYZJCSQUoGKRlkkJLJyyQlgwxSMkjJICWDDAwySMkgJYOUDDJIGV/fM11vrvvXWZ57fm/vRy93V+f3/P7PUVzk+UsBeF6AIjVADfA8AY2A5wXQJqgR0Ah4noBGwPMCJD8F8vl8Di6+Te1OPCkIgpyjLSn9674Lf5YYQOEFDn1fYrnXLAfgfQO8D0Aj4PseoAaoAYYE9Bg0hOTqKdoDLCunEbCk5Og5GgHLwmV5BNSAsAFJ1ICkhBw+7v2/w94HoE3QMr7aBC0pOXqO9gDLwmV5BNQANcCQgEbAEJKrp+gPIcvKZXkE/GxAZNX1GIyEEfsxyyPgfQO8D0CbYOzgRw5keQ9QAyILHftRDYiNxv0DegpY1jDLI/B/DQh4kWY5KlGNWtSjEc1oRTs60Y1e9GMQwxjFOCYxjVnMYwGLWMEaNrCFHezhAEc4wRkucIUb3OEBT3jBGz7whfBdFn5JYm4AGXzjE+94xTMecY9bXOMS5zjFMQ6xj11sYxPrWMUylpDDHGYwhQmMYQRDGEAfetCFDrShBU1oQB1qUIUK/L6TfvnwuDmA8OQsUgCur2ra+1cD0ibo+vVqgOsrmPb+1YC0Cbp+vfcN+AEAAP//SQTSZAAAAAZJREFUAwDVuuePAxmimQAAAABJRU5ErkJggg=="
+        }
+      ]
     }
   ]
 }
