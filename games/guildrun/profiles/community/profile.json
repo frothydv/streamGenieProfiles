@@ -88,30 +88,6 @@
       ]
     },
     {
-      "id": "test-1784825393618-5dbb",
-      "payloads": [
-        {
-          "title": "test",
-          "text": "",
-          "image": null,
-          "popupOffset": {
-            "x": 13,
-            "y": -2
-          }
-        }
-      ],
-      "references": [
-        {
-          "file": "test-1784825393618-5dbb.png",
-          "w": 93,
-          "h": 80,
-          "srcW": 1920,
-          "srcH": 1080,
-          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAABQCAYAAAB773kdAAAE90lEQVR4AeybO4wNYRTH96JAQyEiEYmOhkLiUROEQqFAolEIhVDR0enQeFSrI4SKhhAKFJbEFhQkJCTEI4QQ79f1+8vefdzc3bkz3+t8uyPn5Mzc+R7n/DI7+Z8716Se+l90AjX06Mh7emroNfQEBBJsWd/pNfQEBBJsWd/pNfQEBBJsme2d3mw2Z+FZ5p9l0ro5G43GO+JywE8nZmXZQh+gvJF4G/CzifZtIMMsoQN5Mn6WGvbii/F+zhcRs7DsoAN3KmQv4Vvwls3loI9ra4jmLSvoQJ0B0Rt4J7h6tl9mzHaum7ZsoANzDiT78GX4aKZ6ehl7FNfxaOOSfm42seFUALiA87v4Qrwb282gS8ybRjRn5qEDbinUdIfPI5axtQzWc96csjENHeCrAadn+ExiFTOpbMxCB/hmKEuluD4izCkbk9ABvgvg0uFTiD7MlLIxBR3YDfwQlI/jDdynqVYTykaJ+Cys8lrAnszkM7i6TEIwS6BsRtZiAjrAO3WZIzP1e5ZU2SSHDvCxuky/qEeulkzZJIUO8G66zJGo/J4lUTbJoAO8bJfpF/fQatGVTRLoAK/aZQ6h8nskDtGUjTbzm37BagB37TILdnC6HEXZRIUOcF9dphPZgsnBlU006AD33WUWsHO6HFTZBIcO7JBdphPZgsnBlE1Q6ACP1WUW8Kt8OYiyCQYd4LG7zMpkCyaKUVVl03FpLdjxgsuHAE/VZbqkXTTXm7LxDh3gqbvMIngu170oG6/QAW6ly3QBWzTXWdl4gw5wa11mETyX607Kxgt0gFvuMl3gjjW3srJxhg7wHLrMseC5XBO/+WUX0KSycwbHAzynLnMwb48HhxuNxv6y6zlBH9isORAnWjgO8H1VinaCzqYn2HQd/hWfSNZL7dLtlWp2gq4d2fwqcQX+Bp8Idooid+KVzRm6dgb8A+IS/D4+nu0cxW2j3sJHKuNGNS/QtTqJvCTqjr9CHI92gaK2UudfopN5g64sSOgbUc/4XuJ4Mv28bxP1/fFRlFfoSojEmvgOjvfgXpJknZR2jc03UtMvohfzDr2VFUke43g9nrOyuUn+G6jlB9GbBYOuDEk2Z2Wj38SvpwY9MlWONw8KXVmSdI7K5h65ryX3L0TvFhy6Mib5nJSNZO9qcv6k3EN4FOhKnCL0Z2pd2Twk11Xk+oEYzKJBVwUUY1nZPCbHleSo//7OYTiLCr1VBoVZUzZPyU3AXxODWxLoqgrwVpTNc/IR8BdEd+tihWTQlRvgUyubV+Qh4M+I0SwpdFUJ+FTK5i37C/gTYlRLDl3VAj62snnPvlIpj4jRzQR0VQ34WMrmI/tJh+vRxmF8MwO9VTrwQyqbz+yjTrOfmMzMQRcJwIdQNvriTd+l3NEeKd0kdAEBvP78fb2N+s6a+rbwFjG5mYUuMoD3oWx+spa+D79ONGGmoYsQ4F2UzW/W0Bufy0QzZh66SAG+irLRWyu907yoNSx5FtBbwIDfrbLRy2O9tT/fmhs+dr9DVtBVFuCLlI1+HrGTcac13qJnB10QATqWstnN9ZMaZ9WzhC6YgO2kbPbyuX7qpyFmPVvoIgrg4crmAOdH9Ll1zxq64AL6v7IhHtR5Dp499Bwgt+dYQ28nEuG8hh4BcvsWNfR2IhHOa+gRILdvUUNvJ1L+vPSMGnppZO4TaujuDEuvUEMvjcx9wj8AAAD//wRx1TQAAAAGSURBVAMAT4t/sPuzAdEAAAAASUVORK5CYII="
-        }
-      ]
-    },
-    {
       "id": "plague-harvester-1784825418154-b782",
       "payloads": [
         {
