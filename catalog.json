@@ -250,6 +250,19 @@
           "timesUsed": 3
         }
       ]
+    },
+    {
+      "id": "oaken-tower",
+      "name": "Oaken Tower",
+      "twitchSlug": "oaken-tower",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/oaken-tower/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
