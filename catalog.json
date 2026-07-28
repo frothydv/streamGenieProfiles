@@ -11,7 +11,9 @@
           "name": "STS2 Community",
           "description": "Community-maintained annotations for Slay the Spire 2.",
           "verified": true,
-          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/community/profile.json"
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/slay-the-spire-2/profiles/community/profile.json",
+          "timesUsed": 8,
+          "triggerCount": 63
         },
         {
           "id": "dcsts2",
@@ -61,7 +63,8 @@
           "id": "community",
           "name": "community",
           "verified": false,
-          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/backpack-battles/profiles/community/profile.json"
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/backpack-battles/profiles/community/profile.json",
+          "timesUsed": 2
         }
       ]
     },
@@ -87,7 +90,190 @@
           "id": "community",
           "name": "community",
           "verified": false,
-          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/punk/profiles/community/profile.json"
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/punk/profiles/community/profile.json",
+          "timesUsed": 1
+        }
+      ]
+    },
+    {
+      "id": "starsector",
+      "name": "Starsector",
+      "twitchSlug": "starsector",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/starsector/profiles/community/profile.json"
+        }
+      ]
+    },
+    {
+      "id": "stardew-valley",
+      "name": "Stardew Valley",
+      "twitchSlug": "stardew-valley",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/stardew-valley/profiles/community/profile.json",
+          "timesUsed": 4,
+          "triggerCount": 20
+        }
+      ]
+    },
+    {
+      "id": "dungeon-clawler",
+      "name": "Dungeon Clawler",
+      "twitchSlug": "dungeon-clawler",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/dungeon-clawler/profiles/community/profile.json"
+        }
+      ]
+    },
+    {
+      "id": "cropdeck",
+      "name": "Cropdeck",
+      "twitchSlug": "cropdeck",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/cropdeck/profiles/community/profile.json"
+        }
+      ]
+    },
+    {
+      "id": "balatro",
+      "name": "Balatro",
+      "twitchSlug": "balatro",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/balatro/profiles/community/profile.json",
+          "triggerCount": 1
+        }
+      ]
+    },
+    {
+      "id": "mina-the-hollower",
+      "name": "Mina the Hollower",
+      "twitchSlug": "mina-the-hollower",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/mina-the-hollower/profiles/community/profile.json",
+          "triggerCount": 6
+        }
+      ]
+    },
+    {
+      "id": "pinball-hero",
+      "name": "Dungeon Baller",
+      "twitchSlug": "pinball-hero",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/pinball-hero/profiles/community/profile.json",
+          "triggerCount": 4
+        }
+      ]
+    },
+    {
+      "id": "romestead",
+      "name": "Romestead",
+      "twitchSlug": "romestead",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/romestead/profiles/community/profile.json",
+          "triggerCount": 2
+        }
+      ]
+    },
+    {
+      "id": "down-with-the-ship",
+      "name": "Down with the Ship",
+      "twitchSlug": "down-with-the-ship",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/down-with-the-ship/profiles/community/profile.json",
+          "triggerCount": 3,
+          "timesUsed": 1
+        }
+      ]
+    },
+    {
+      "id": "doom-the-dark-ages",
+      "name": "DOOM: The Dark Ages",
+      "twitchSlug": "doom-the-dark-ages",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/doom-the-dark-ages/profiles/community/profile.json",
+          "triggerCount": 1
+        }
+      ]
+    },
+    {
+      "id": "astro-prospector",
+      "name": "Astro Prospector",
+      "twitchSlug": "astro-prospector",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/astro-prospector/profiles/community/profile.json",
+          "triggerCount": 6
+        }
+      ]
+    },
+    {
+      "id": "guildrun",
+      "name": "Guildrun",
+      "twitchSlug": "guildrun",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/guildrun/profiles/community/profile.json",
+          "triggerCount": 4,
+          "timesUsed": 3
+        }
+      ]
+    },
+    {
+      "id": "oaken-tower",
+      "name": "Oaken Tower",
+      "twitchSlug": "oaken-tower",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "community",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/oaken-tower/profiles/community/profile.json",
+          "triggerCount": 1
         }
       ]
     },

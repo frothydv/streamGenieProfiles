@@ -1,0 +1,195 @@
+{
+  "triggers": [
+    {
+      "id": "reroll-currency-1783702036888-1311",
+      "payloads": [
+        {
+          "title": "Reroll Currency",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 56,
+            "y": -60
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "reroll-currency-1783702036888-1311.png",
+          "w": 52,
+          "h": 41,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": null
+        }
+      ]
+    },
+    {
+      "id": "currency-1783702163691-c193",
+      "rotates": true,
+      "rotation": {
+        "mode": "free",
+        "minAngle": -30,
+        "maxAngle": 30,
+        "step": 5,
+        "fineStepNearZero": false,
+        "baseAngle": 0
+      },
+      "payloads": [
+        {
+          "title": "Currency",
+          "text": "Used for buying things",
+          "image": null,
+          "popupOffset": {
+            "x": 16,
+            "y": -29
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "currency-1783702163691-c193.png",
+          "w": 35,
+          "h": 32,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAgCAYAAACYTcH3AAAB2klEQVR4AeyWTytEYRTG5yJCssLCyoZSFrIQK0vFYuzIQpLyAcRnsKCsWYiE1ajxBYSyURYs7CzsJCVDNIzfqTt15o73vX/mXmma6Xk65973nOd97pl7661L/aNfdZkpFAppeAIfYN6l5FnydJjBR54MG7XDOzbLwAnYDetdSj5JnqHmAjaT+yKSGcTnUH6GvdAPoxQ80TNNtCK0GUQXUNyBDgwKmcw+va22hlBmEOtAbAtGgex1amuUAtu6d+2eG2EmQnkJhnigtZI76iKQGQT64Td9LbBSrKA1+5uIrxkaszTewkomQnsJ9tAte3+sZmgYQUI+UUKskAe78ipazVB8DpNCHw+7pMWNZii8pNC4zloc2NQits2GdWFCeaPWtZnRdX+S18yYxlybTJTJvJiakrpv+5uOktpU6eZVnrKZWdeFCeUbWtdoxnEcOVIe6OKY8xx7rGpNoxm3aJ74BpNAl1fUagbnHzSMw7hxiHbOK2o1I8U0nRHlAE6oGJ8odKI5QyyDrxnpoHmXKKe8a2IUiIltdJrgo0kgkBlpRuQdDpJPQTlYvxI1vriQM7J8hQPUaoiJRdatCGymqMIOx3AMtkGNBi564DK8KdaHia6ZMC3J1dbMmGb7AwAA///84/nOAAAABklEQVQDABfigkHZpItJAAAAAElFTkSuQmCC"
+        }
+      ]
+    },
+    {
+      "id": "currency-1783702188056-7b22",
+      "rotates": true,
+      "rotation": {
+        "mode": "free",
+        "minAngle": -30,
+        "maxAngle": 30,
+        "step": 5,
+        "fineStepNearZero": false,
+        "baseAngle": 0
+      },
+      "scale": {
+        "min": 0.75,
+        "max": 1.5,
+        "step": 1.12
+      },
+      "payloads": [
+        {
+          "title": "Currency",
+          "text": "Used for buying things",
+          "image": null,
+          "popupOffset": {
+            "x": 16,
+            "y": -29
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "currency-1783702188056-7b22.png",
+          "w": 35,
+          "h": 32,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAgCAYAAACYTcH3AAAB2klEQVR4AeyWTytEYRTG5yJCssLCyoZSFrIQK0vFYuzIQpLyAcRnsKCsWYiE1ajxBYSyURYs7CzsJCVDNIzfqTt15o73vX/mXmma6Xk65973nOd97pl7661L/aNfdZkpFAppeAIfYN6l5FnydJjBR54MG7XDOzbLwAnYDetdSj5JnqHmAjaT+yKSGcTnUH6GvdAPoxQ80TNNtCK0GUQXUNyBDgwKmcw+va22hlBmEOtAbAtGgex1amuUAtu6d+2eG2EmQnkJhnigtZI76iKQGQT64Td9LbBSrKA1+5uIrxkaszTewkomQnsJ9tAte3+sZmgYQUI+UUKskAe78ipazVB8DpNCHw+7pMWNZii8pNC4zloc2NQits2GdWFCeaPWtZnRdX+S18yYxlybTJTJvJiakrpv+5uOktpU6eZVnrKZWdeFCeUbWtdoxnEcOVIe6OKY8xx7rGpNoxm3aJ74BpNAl1fUagbnHzSMw7hxiHbOK2o1I8U0nRHlAE6oGJ8odKI5QyyDrxnpoHmXKKe8a2IUiIltdJrgo0kgkBlpRuQdDpJPQTlYvxI1vriQM7J8hQPUaoiJRdatCGymqMIOx3AMtkGNBi564DK8KdaHia6ZMC3J1dbMmGb7AwAA///84/nOAAAABklEQVQDABfigkHZpItJAAAAAElFTkSuQmCC"
+        }
+      ]
+    },
+    {
+      "id": "reroll-currency-1783702234191-9a63",
+      "scale": {
+        "min": 0.75,
+        "max": 1.5,
+        "step": 1.12
+      },
+      "payloads": [
+        {
+          "title": "Reroll Currency",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 56,
+            "y": -60
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "reroll-currency-1783702234191-9a63.png",
+          "w": 52,
+          "h": 41,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAApCAYAAAB6MAquAAACiElEQVR4AeyYzyttURTH333v9aI3eK+IkgEzAzKQwr/AgKIMGciIokiKovwW/wFGZmKgDMwpJYqJJCakGDHwK67Pqnt0w3X32mef43Kv1sfazllnrfXde3f3PX7++GY/GUGpvqCZFUrbFYpGo6XQAxtwB08Qbzf8sQX1LifJ2ZaTxmAVzuGJJvdgEqrhD0Qg3rL4oxKWid+EbMa+zUoQxWX25/EX8AhROlmGWsiH181z6UOr4u4VeZrxvkwliIJZMENFmf0WfC6ochCfyH5zY5H8OXhrM26GQuVUOYIuCMpkZS+p1WpbwEgQBf5SQLZUAT4Mm6PmgE0hI0EkHoFiCNOGEfVfWzCpIJLWkLQDPsNOtEWTCiJhJ5jEEebc/jGhU5qsJo2WaBIGENuuyWkiqEiTMIBY+UAyTmsi6NY4WzCBJj2+VDYJ3n2J/gKDtBQ0z8I8gHMLImHSFYpEIgcUHoUvYUkFxVSM4Xcg5c1IEKt0h5I2eISUNiNBogBR23h5CVOd3Dzj1+41CYwFSVJEPUAv4zJYgAuQt1NcYLauyawS5CVG1D60Qh78AnmP8W679PImrHr/shKUoOPrBNf9XB5gsg41CVwKWtMUNog9I2YcVOZS0CCVZYvgfJt8mtaxOuJVyZwJorgcwOoZfafbWa5lk8/q3HMmiCbEhvh1DFqTlV3hoTKEdIP1Vy2ngmhEDuAmGtNsFYmt4NkG2OdZX+ZUkHRCU94BLF+XPjqj5N4Ez1hvL559Y84FSQVEyQHcz1j+l9eDX4LTGDKWw7mcuD6w3l7ke2OBCPKq0KwcwNP4RiiMIeMpxr63l1cn3gcqKL5QWOOMoLBm2rZO+q6Q7YyF/dy3W6FnAAAA//+nCQAdAAAABklEQVQDAJhhu1Ny0HQPAAAAAElFTkSuQmCC"
+        }
+      ]
+    },
+    {
+      "id": "screws-1783702468197-f181",
+      "rotates": true,
+      "rotation": {
+        "mode": "free",
+        "minAngle": -30,
+        "maxAngle": 30,
+        "step": 5,
+        "fineStepNearZero": true,
+        "baseAngle": 0
+      },
+      "scale": {
+        "min": 0.75,
+        "max": 1.5,
+        "step": 1.12
+      },
+      "payloads": [
+        {
+          "title": "Screws",
+          "text": "Another currency to buy things",
+          "image": null,
+          "popupOffset": {
+            "x": 13,
+            "y": -19
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "screws-1783702468197-f181.png",
+          "w": 42,
+          "h": 39,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAnCAYAAAB5XdqFAAACYElEQVR4AeyWvytFYRjHHUIoijCyGP0YWCSL1WIyiJKUwWC1KJvdwsCAPwCLpIQsYpCF0WBCsRFxfR6do8N9z3veH/fcUlfP977nfd/nx8fj3sctL/snPyXQQv+hSh0tddS3A7lcbhydozcUmTzL2bhvfu/3KERt6BiQDdSLKlFk8ixnG+KD2qIL29UblIK7aBClmfhspTkl3XuB0qFJEnchUxsIY0z9f/y8QMmyjGxt1DZA/J1A6Uo/eiZBHbK1HtsA8XcCJfAINaCimRUoXVxEH9DJp5nFyS5dooxAgZMRdEWBBWQUg1+SrSRd6M5TiwokCa5RJ/K12yAItl2SaEFjkDUuyRUx7eR8RP2KO+2RFpTIA1QoSFJ9WxOve8jKEkH5rWWYd1hlM3euJ7/8RzOOSAQlg9NgJs7Uhk0dxU8H6jSYJamhArp6j4y+qOhADet5uTUTvYNSTQfqNJhTK+Y7dNNV+Tzk38ROdKBOgzmW2+ZxDVjtyEoEDQfzflgt6yWgwAmwie/XRFACxeZ4eUM6S7vXxcbvKticIaVpQenqDaomcgJdoFf0iWSV/YTcI+nIKudPyMda6ary/aoFjSoCson6UA2qQLLKfjPmM8N5I/sl5GPK+W0EalMV2Hn8fTqrnN8FBwVSbExeCqlMQOmqfOkYcQRVzu9MQAUQWPneeSrPllLO78xAQ7hpVpvxtRP+goT9tkxBKRqNt/XfZZW7F05nkdIyBY0qAjyFZNYecvaO4vbARuZxLT53PCutKKBRZUCGUBWKWwubn3kc+f5diwr6t7jNvgRq0y0T3y8AAAD//8jY+/0AAAAGSURBVAMADAyjT5bnnpkAAAAASUVORK5CYII="
+        }
+      ]
+    },
+    {
+      "id": "dodge-1783704833644-dd73",
+      "scale": {
+        "min": 0.75,
+        "max": 1.5,
+        "step": 1.12
+      },
+      "payloads": [
+        {
+          "title": "Dodge",
+          "text": "",
+          "image": null,
+          "popupOffset": {
+            "x": 17,
+            "y": -18
+          }
+        }
+      ],
+      "references": [
+        {
+          "file": "dodge-1783704833644-dd73.png",
+          "w": 42,
+          "h": 44,
+          "srcW": 1920,
+          "srcH": 1080,
+          "maskDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAsCAYAAAATmipGAAAChklEQVR4AeyWzUtVQRjGu0UfEkRBEJVRewsKioL+AMl1i2hTtGpfVFQSVIs+hJa1q0XbCDcKiuBKcKMiLgRB3CjoQlwKotffAwcX3jnzzpmZe1E48j68h5l5n/kx5zj3PXrkkPzVoLlfVH2i9YnmPoHcfvU3Wp9o7hPI7Rf1jTabzbPoJ9pEvthhchkNoOsp8JVB2fABG66g5+gk8kWDyUvoBZql9gs6znPlCAZlg6tolh2GUBeqGoJ+TdEiPrfIlSIIFON+XBfRDZQa3RhM4nmGHBwmKIZvcfuIzLWsCQ29/nW8H4UWeDfH6BpGn1A74himf9njNNkMLyjVP5C1hiXRIdixkGoL4naISeKau5yqbhCvjQWqq8VrkGnyveVjgepKsTxyzF/mVL1XlgXazEER6DEI7ImytRbodllhG8av4PkZOcMCnXJWtW/wJad632VvgY4XRZ1K+p9459rMAv1F0QbqZNxxbeYFbTQaSxQ9Q52Mc67NvKAqAPY/uQ+ptSO1PZxMzsH9KMAOM9aD1JyMkNcKTZDV+pGyxZbLKQhUhcBuoA+oF12QGNd1cp6cM5ZdZsGg+4u5RnoZUxOd+2d2FN+WiAIFUh/87xa39AH9wAy4bKJAMXqCLqLc0c8nteAyjQW95zJLHJun/htyxkEB1St/zGkqZwU95XSrPiiwr5R1ATlNLo3YE50pdSyfWGVKV4/0j+dX6CaAb5Dz7mR+LzoJ+geg7kIPyd/R3B6J8RALWrVZUWOjGgOnfDoKlJOo2qw8LWrKSYyZKFB5snFIs6JGpo+1g6pJUTSoNgWgrFlR46IGpqdYo+VJSgLVzoC0NCuMqXFRA6NvU8uSlQyaTBBosAsAAP//HrDM8AAAAAZJREFUAwBf87lZtT5FsgAAAABJRU5ErkJggg=="
+        }
+      ]
+    }
+  ]
+}
