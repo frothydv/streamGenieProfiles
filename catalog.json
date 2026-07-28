@@ -90,6 +90,20 @@
           "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/punk/profiles/community/profile.json"
         }
       ]
+    },
+    {
+      "id": "guildrun",
+      "name": "Guildrun",
+      "twitchSlug": "guildrun",
+      "profiles": [
+        {
+          "id": "community",
+          "name": "Guildrun Community",
+          "description": "AI-generated relic annotations from guildrunwiki.com + extracted game icons.",
+          "verified": false,
+          "url": "https://cdn.jsdelivr.net/gh/frothydv/streamGenieProfiles@main/games/guildrun/profiles/community/profile.json"
+        }
+      ]
     }
   ]
 }
